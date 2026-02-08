@@ -1,8 +1,14 @@
---- 
-permalink: /about/ 
-title: "About Me" 
-author_profile: true 
 ---
+permalink: /
+title: "Hang Lu"
+author_profile: true
+---
+
+Welcome to my personal academic homepage.
+
+Please visit the **About** page to learn more about my research and background.
+
+
 
 I am **Hang Lu**, a PhD candidate in Electrical Engineering with a research focus on **optoelectronics and electro-optical (E–O) integration**.
 
