@@ -6,6 +6,34 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+author:
+  avatar    : "/images/avatar.jpg"   # 如果你还没头像，可以先放着
+  name      : "Hang Lu"
+  pronouns  : "she/her"
+  bio       : "PhD candidate in Electrical and Computer Engineering at KAUST"
+  location  : "Thuwal, Saudi Arabia"
+  employer  : "King Abdullah University of Science and Technology"
+  email     : "hang.lu@kaust.edu.sa"
+
+  # Academic profiles
+  googlescholar : "https://scholar.google.com/citations?user=EgY7UKYAAAAJ&hl=en"
+  orcid         :  "https://orcid.org/0000-0003-4248-945X"
+  pubmed        :
+  researchgate  :
+
+  # Advisor & group（这是加分项）
+  # 注意：Academic Pages 不原生支持“advisor”字段，
+  # 但 links 里可以自定义
+  links:
+    - label: "Advisor: Prof. Boon S. Ooi"
+      icon: "fas fa-user-tie"
+      url: "https://scholar.google.com/citations?user=HXoHuwYAAAAJ&hl=en"
+
+    - label: "Photonics Lab @ KAUST"
+      icon: "fas fa-flask"
+      url: "https://www.kaustphotonics.org/"
+
+
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
