@@ -1,56 +1,75 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+--- 
+permalink: /about/ 
+title: "About Me" 
+author_profile: true 
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am **Hang Lu**, a PhD candidate in Electrical Engineering with a research focus on **optoelectronics and electro-optical (E–O) integration**.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently pursuing my PhD at **King Abdullah University of Science and Technology (KAUST)** in the **Photonics Laboratory**, under the supervision of **Prof. Boon S. Ooi**. My research centers on **semiconductor optoelectronic devices and photonic integrated circuits (PICs)**, with particular emphasis on **VCSEL-based light sources**, **emitter–detector co-integrated architectures**, and their applications in **high-speed communication**, **imaging**, and **hardware security**.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My work adopts a full-stack approach to photonic system development, spanning **device physics modeling and III–V epitaxial analysis**, **nanofabrication and process integration**, and **optical/electrical characterization with system-level validation**. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, and photodetectors, and evaluated their performance in **GHz-class optical links**, **beam-steering systems**, and **imaging platforms** using customized optical and RF measurement setups.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am a member of the **Photonics Laboratory at KAUST**  
+([Group website](https://www.kaustphotonics.org/)),  
+and my research activities are closely aligned with the lab’s efforts in integrated photonics and advanced optoelectronic systems.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Research Interests
+- Photonic integrated circuits and system-level architectures  
+- VCSELs and cavity-engineered semiconductor lasers  
+- Micro-LEDs and integrated photodetectors  
+- High-speed optical and electro-optical communication systems  
+- Optical entropy sources, random number generation, and photonic PUFs  
+- Secure photonic hardware and device-level authentication  
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Education
+- **PhD in Electrical and Computer Engineering**, KAUST (2021.09 – Present)  
+  Advisor: Prof. Boon S. Ooi  
+- **M.S. in Electrical and Computer Engineering**, KAUST (2021.09 – 2022.12)  
+  Advisor: Prof. Boon S. Ooi  
+- **B.S. in Electronic and Information Engineering**,  
+  University of Electronic Science and Technology of China (UESTC) (2017.09 – 2021.06)
 
-**Markdown generator**
+---
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+## Professional Experience
+**Research Internship at Meta** (2025.06 – 2025.11)  
+- Conducted high-speed photonic integrated circuit modeling and system architecture design  
+- Designed PIC-based architectures for **high-speed 2D beam steering**, including modulator–waveguide–grating co-design and display-level performance evaluation  
+- Performed chip-scale and free-space optical design to interface PIC outputs with system-level optics  
+- Developed automated MATLAB and Python tools for optical modeling, system analysis, and performance prediction  
+- Collaborated with cross-functional teams across optics, electronics, and mechanics to define specifications and validate early-stage prototypes  
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+---
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+## Research Highlights
+- Designed and prototyped **chaotic-cavity VCSEL systems** for high-speed communication and illumination applications  
+- Performed III–V device simulation using **COMSOL, Lumerical, Tidy3D, RSoft, and Silvaco**  
+- Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, RF spectra, spatial coherence, near- and far-field patterns, and thermal performance  
+- Built fiber-based and free-space **GHz-class optical communication links**, validating bandwidth, eye diagrams, jitter, and parasitic effects  
+- Applied **machine learning techniques** for optical signal classification, device identification, and robustness evaluation  
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+---
+
+## Selected Publications & Presentations
+A complete list of my journal publications, conference papers, and invited talks is available on the **Publications** page. My work has appeared in venues including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics*, *IEEE Journal of Selected Topics in Quantum Electronics*, and *npj Nanophotonics*.
+
+---
+
+## Service & Awards
+- Reviewer for **IEEE Photonics Technology Letters**, **IEEE Photonics Journal**, and **Chinese Optics Letters**  
+- **KAUST Dean’s List Award** (2023, 2024)  
+- **KAUST Career Fair Ambassador** (2023)  
+- **KAUST “Green Road” Excellent Volunteer Leader** (2022)  
+- **UESTC First-Class Scholarship** (2018–2020)  
+- **National Excellent Youth Award**, China (2020)
+
+---
+
+## Contact
+- Email: *hang.lu@kaust.edu.sa*   
+- Google Scholar and CV links are provided in the sidebar
