@@ -168,6 +168,17 @@
       {% if author.youtube %}
         <li><a href="https://www.youtube.com/@{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
       {% endif %}
+      {% if site.author.links %}
+        {% for link in site.author.links %}
+          <li>
+            <a href="{{ link.url }}" rel="nofollow noopener noreferrer" target="_blank">
+              {% if link.icon %}<i class="{{ link.icon }}" aria-hidden="true"></i>{% endif %}
+              {{ link.label }}
+            </a>
+          </li>
+        {% endfor %}
+      {% endif %}
+
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
