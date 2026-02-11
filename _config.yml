@@ -34,19 +34,9 @@ author:
   email            : "hang.lu@kaust.edu.sa" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=EgY7UKYAAAAJ&hl=en"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4248-945X"
-  semantic         : # URL
-  ssrn             : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
-
+     
   links:
     - label: "Advisor: Prof. Boon S. Ooi"
       icon: "fas fa-user-tie"
@@ -55,6 +45,7 @@ author:
     - label: "Photonics Lab @ KAUST"
       icon: "fas fa-flask"
       url: "https://www.kaustphotonics.org/"
+
 
 
   # Repositories and software development
