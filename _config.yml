@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Hang-profile.png"
+  avatar           : "hang-profile.png"
   name             : "Hang Lu"
   pronouns         : "she/her"  
   bio              : "PhD candidate in Electrical and Computer Engineering at KAUST"
