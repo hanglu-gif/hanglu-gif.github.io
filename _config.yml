@@ -46,24 +46,7 @@ author:
   scopus           : # URL
   zotero           : # URL
 
-author:
-  avatar    : "Hang-profile.png"
-  name      : "Hang Lu"
-  pronouns  : "she/her"
-  bio       : "PhD candidate in Electrical and Computer Engineering at KAUST"
-  location  : "Saudi Arabia"
-  employer  : "King Abdullah University of Science and Technology"
-  email     : "hang.lu@kaust.edu.sa"
 
-  # Academic profiles
-  googlescholar : "https://scholar.google.com/citations?user=EgY7UKYAAAAJ&hl=en"
-  orcid         :  "https://orcid.org/0000-0003-4248-945X"
-  pubmed        :
-  researchgate  :
-
-  # Advisor & group（这是加分项）
-  # 注意：Academic Pages 不原生支持“advisor”字段，
-  # 但 links 里可以自定义
   links:
     - label: "Advisor: Prof. Boon S. Ooi"
       icon: "fas fa-user-tie"
@@ -78,13 +61,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  #github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
