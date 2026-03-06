@@ -64,11 +64,11 @@
     {% elsif post.paperurl %}
       <p><a href="{{ post.paperurl }}">Download Paper</a></p>
     {% elsif post.slidesurl and post.bibtexurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p class="{% if post.collection == 'publications' %}archive__item-publication-links{% endif %}"><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p class="{% if post.collection == 'publications' %}archive__item-publication-links{% endif %}"><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
-      <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+      <p class="{% if post.collection == 'publications' %}archive__item-publication-links{% endif %}"><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
 
   </article>

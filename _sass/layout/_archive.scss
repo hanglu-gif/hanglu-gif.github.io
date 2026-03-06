@@ -66,6 +66,17 @@
   }
 }
 
+
+.archive__item-publication-meta {
+  margin: 0.1em 0;
+  line-height: 1.25;
+}
+
+.archive__item-publication-links {
+  margin: 0.25em 0 0.1em;
+  line-height: 1.25;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
