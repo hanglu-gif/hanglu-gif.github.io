@@ -8,21 +8,21 @@ Welcome to my homepage.
 
 I am Hang Lu, a PhD candidate in Electrical Engineering with a research focus on optoelectronic devices and photonic integration.
 
-I am currently pursuing my PhD at King Abdullah University of Science and Technology (KAUST) in the Photonics Laboratory (https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi. My research centers on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers, especially VCSELs, microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumincation, and hardware security.
+I am currently pursuing my PhD at King Abdullah University of Science and Technology (KAUST) in the ([KAUST Photonics Lab](https://www.kaustphotonics.org/)), under the supervision of Prof. Boon S. Ooi. My research centers on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers, especially VCSELs, microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumincation, and hardware security.
 
-My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
+My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
 
 ---
 
 ## Research Interests
 - Photonic integrated circuits (PICs)
-- Vertical surface emitting lasers (VCSELs), Micro-LEDs and photodetectors
+- Optoelectronicsm especially vertical surface emitting lasers (VCSELs), micro-LEDs and photodetectors
 - High-speed optical and electro-optical communication systems  
 - Optical entropy sources, random number generation, and photonic PUFs 
 - AR display architectures
  
 ## Education
-- PhD in Electrical and Computer Engineering, KAUST (2021.09 – Present)  
+- PhD in Electrical and Computer Engineering, KAUST (2023.01 – Present)  
   Advisor: Prof. Boon S. Ooi  
 - M.S. in Electrical and Computer Engineering, KAUST (2021.09 – 2022.12)  
   Advisor: Prof. Boon S. Ooi  
@@ -51,12 +51,12 @@ My work adopts a full-stack approach to photonic system development, spanning de
 ---
 
 ## Selected Publications & Presentations
-A complete list of my journal publications, conference papers, and invited talks is available on the Publications page. My work has appeared in venues including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics*, *IEEE Journal of Selected Topics in Quantum Electronics*, and *npj Nanophotonics*.
+A complete list of my journal publications, conference papers, and invited talks is available on the Publications page. My work has appeared in journals including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics*, *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper), and *npj Nanophotonics* (Invited perspective paper).
 
 ---
 
 ## Service & Awards
-- Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, and Chinese Optics Letters 
+- Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on. 
 - KAUST Dean’s List Award (2023, 2024)  
 - KAUST Career Fair Ambassador (2023)  
 - KAUST “Green Road” Excellent Volunteer Leader (2022)  
