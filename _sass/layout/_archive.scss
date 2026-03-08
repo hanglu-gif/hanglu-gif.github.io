@@ -77,6 +77,33 @@
   line-height: 1.25;
 }
 
+.archive__item-publication-title {
+  margin-top: 0.5rem;
+  margin-bottom: 0.4rem;
+  line-height: 1.35;
+}
+
+.archive__item-publication-authors {
+  margin: 0.1rem 0 0.35rem;
+  color: var(--global-text-color-light);
+}
+
+.archive__item-publication-year {
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.1rem 0.45rem;
+  font-size: $type-size-7;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--global-bg-color);
+  background: var(--global-link-color);
+  border-radius: 999px;
+}
+
+.archive__item-publication-venue {
+  display: inline;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
