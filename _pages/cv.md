@@ -63,13 +63,27 @@ Service and Awards
 
 Selected Publications and Presentations
 ======
-* Zhican Zhou*, Hang Lu*, et al., “Chaos-based scalable optoelectronic physical unclonable functions with AI-driven dynamic authentication.” *Nature Electronics* (Accepted, 2026).
-* Hang Lu, et al., “Shaping the Light of VCSELs through Cavity Geometry Design.” *Light: Science and Applications* 14, 344 (2025).
-* Hang Lu, et al., “On-Chip Tamper-Resistant Quantum Entropy Source Enabled by Monolithic Emitter and Detector Integration.” *IEDM* (2025).
-* Hang Lu, et al., “Low-coherence semiconductor light sources: devices and applications.” *npj Nanophotonics* 1.1, 9 (2024).
-* Hang Lu, et al., “Parallel On-chip Physical Random Number Generator based on Self-chaotic Dynamics of Free-Running Broad-Area VCSEL Array.” *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper, 2024).
-* Hang Lu, et al., “Ultrafast dynamics in tailored VCSEL cavity geometry toward high-efficiency physical random number generation.” *APL Photonics* 10.4 (2025).
-* (Invited talk) Ooi, Boon S., Hang Lu, et al., “Design and Applications of Low-Coherence Semiconductor Light Emitters.” *CLEO* (2024).
+* **2026 (Accepted)** — Zhican Zhou*, Hang Lu*, et al.  
+  “Chaos-based scalable optoelectronic physical unclonable functions with AI-driven dynamic authentication.”  
+  *Nature Electronics*.
+* **2025** — Hang Lu, et al.  
+  “On-Chip Tamper-Resistant Quantum Entropy Source Enabled by Monolithic Emitter and Detector Integration.”  
+  *International Electron Devices Meeting (IEDM)*.
+* **2025** — Hang Lu, et al.  
+  “Shaping the Light of VCSELs through Cavity Geometry Design.”  
+  *Light: Science and Applications* 14, 344.
+* **2025** — Hang Lu, et al.  
+  “Ultrafast dynamics in tailored VCSEL cavity geometry toward high-efficiency physical random number generation.”  
+  *APL Photonics* 10.4.
+* **2024** — Hang Lu, et al.  
+  “Parallel On-chip Physical Random Number Generator based on Self-chaotic Dynamics of Free-Running Broad-Area VCSEL Array.”  
+  *IEEE Journal of Selected Topics in Quantum Electronics* (**Cover paper**).
+* **2024** — Hang Lu, et al.  
+  “Low-coherence semiconductor light sources: devices and applications.”  
+  *npj Nanophotonics* 1.1, 9. (**Invited perspective paper**)
+* **2024 (Invited Talk)** — Ooi, Boon S., Hang Lu, et al.  
+  “Design and Applications of Low-Coherence Semiconductor Light Emitters.”  
+  *Conference on Lasers and Electro-Optics (CLEO)*.
 
 Patents
 ======
