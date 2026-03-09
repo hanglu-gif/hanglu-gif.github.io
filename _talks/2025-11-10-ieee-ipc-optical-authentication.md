@@ -12,4 +12,4 @@ header:
 
 Presented at IEEE Photonics Conference (IPC 2025).
 
-![Optical Authentication Leveraging Chaotic-Cavity VCSELs Far-Field with Deep Learning](/images/talks/ieee-ipc-2025-optical-authentication.svg)
+<img src="/images/talks/ieee-ipc-2025-optical-authentication.svg" alt="Optical Authentication Leveraging Chaotic-Cavity VCSELs Far-Field with Deep Learning" style="max-width: 960px; width: 100%; height: auto;">

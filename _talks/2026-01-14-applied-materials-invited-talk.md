@@ -12,4 +12,4 @@ header:
 
 Invited talk at Applied Materials.
 
-![Engineering Optoelectronic Devices and Photonic Integration for Scalable Data Transmission and Security](/images/talks/applied-materials-2026-01-14.svg)
+<img src="/images/talks/applied-materials-2026-01-14.svg" alt="Engineering Optoelectronic Devices and Photonic Integration for Scalable Data Transmission and Security" style="max-width: 960px; width: 100%; height: auto;">

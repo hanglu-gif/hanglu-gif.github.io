@@ -12,4 +12,4 @@ header:
 
 Presented at IEDM.
 
-![On-Chip Tamper-Resistant Quantum Entropy Source Enabled by Monolithic Emitter–Detector Integration](/images/talks/iedm-2025-on-chip-tamper-resistant.svg)
+<img src="/images/talks/iedm-2025-on-chip-tamper-resistant.svg" alt="On-Chip Tamper-Resistant Quantum Entropy Source Enabled by Monolithic Emitter–Detector Integration" style="max-width: 960px; width: 100%; height: auto;">

@@ -23,7 +23,7 @@
         {% else %}
           {% assign teaser_path = teaser | prepend: "/images/" | prepend: base_path %}
         {% endif %}
-        <img src="{{ teaser_path }}" alt="{{ title }} teaser image">
+        <img src="{{ teaser_path }}" alt="{{ title }} teaser image" style="max-width: 760px; width: 100%; height: auto; display: block;">
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
