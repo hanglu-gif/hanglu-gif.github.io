@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: "list" }}__item" style="margin: 0 0 3rem 0; padding-bottom: 1.5rem; border-bottom: 1px solid #e6e6e6;">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if teaser %}
       <div class="archive__item-teaser">
