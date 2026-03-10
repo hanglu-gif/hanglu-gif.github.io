@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#0b4aa2"/>
+  <rect y="90" width="1600" height="160" fill="#0a2d63"/>
+  <text x="800" y="190" text-anchor="middle" fill="#ffffff" font-size="56" font-family="Arial, sans-serif" font-weight="700">IEEE Photonics Conference 2025</text>
+  <text x="800" y="340" text-anchor="middle" fill="#ffffff" font-size="62" font-family="Arial, sans-serif">Optical Authentication Leveraging Chaotic-Cavity</text>
+  <text x="800" y="420" text-anchor="middle" fill="#ffffff" font-size="62" font-family="Arial, sans-serif">VCSELs Far-Field with Deep Learning</text>
+  <text x="800" y="560" text-anchor="middle" fill="#dbe8ff" font-size="48" font-family="Arial, sans-serif">Hang Lu · Singapore · 2025-11-10</text>
+</svg>
