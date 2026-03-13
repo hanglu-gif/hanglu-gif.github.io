@@ -10,3 +10,5 @@ excerpt: "Assisted with hands-on photonics training and mentoring during the KAU
 ---
 
 Teaching Assistant for the **KAUST Photonics Summer Camp** (2024), supporting instruction, lab activities, and student mentoring.
+
+<img src="/images/teaching/summercamp.jpeg" alt="KAUST Photonics Summer Camp 2024" style="width:72%; min-width:280px; max-width:900px; height:auto; border-radius:8px; margin-top:10px;" />
