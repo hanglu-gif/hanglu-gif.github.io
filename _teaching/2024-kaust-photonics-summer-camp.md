@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Thuwal, Saudi Arabia"
 excerpt: "Assisted with hands-on photonics training and mentoring during the KAUST Photonics Summer Camp."
 header:
-  teaser: "/teaching/summercamp.jpeg"
+  teaser: "/_teaching/summercamp.jpeg"
 ---
 
 Teaching Assistant for the **KAUST Photonics Summer Camp** (2024), supporting instruction, lab activities, and student mentoring.
