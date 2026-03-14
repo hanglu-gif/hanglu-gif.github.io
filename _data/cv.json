@@ -146,14 +146,7 @@
       "category": "portfolio",
       "date": "",
       "url": "/portfolio/phd-research-overview/",
-      "description": "Overview of VCSEL/Micro-LED/photonic integration research with simulation, nanofabrication, and experimental characterization.<br/><img src='/portfolio/portfolio1.jpg'>"
-    },
-    {
-      "name": "Optoelectronic Device Applications",
-      "category": "portfolio",
-      "date": "",
-      "url": "/portfolio/optoelectronic-device-applications/",
-      "description": "Demonstrated optoelectronic devices for communication, imaging/illumination, random number generation, and hardware security authentication.<br/><img src='/portfolio/portfolio3.jpg'>"
+      "description": "Overview of VCSEL/Micro-LED/photonic integration research with simulation, nanofabrication, and experimental characterization.<br/><img src='/portfolio/Portfolio1.jpg'>"
     },
     {
       "name": "Industry Experience: AR Display Architecture Design",
@@ -161,6 +154,13 @@
       "date": "",
       "url": "/portfolio/industry-experience-ar-display/",
       "description": "Lens-free, solid-state AR display engine architecture with compact optical combiner design for AR glasses.<br/><img src='/portfolio/portfolio4.jpg'>"
+    },
+    {
+      "name": "Optoelectronic Device Applications",
+      "category": "portfolio",
+      "date": "",
+      "url": "/portfolio/optoelectronic-device-applications/",
+      "description": "Demonstrated optoelectronic devices for communication, imaging/illumination, random number generation, and hardware security authentication.<br/><img src='/portfolio/portfolio3.jpg'>"
     }
   ]
 }
