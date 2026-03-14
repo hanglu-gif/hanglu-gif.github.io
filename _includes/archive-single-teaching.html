@@ -1,0 +1,45 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item" style="margin: 0 0 3rem 0; padding-bottom: 1.5rem; border-bottom: 1px solid #e6e6e6;">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if teaser %}
+      <div class="archive__item-teaser">
+        {% assign teaser_first_char = teaser | slice: 0, 1 %}
+        {% if teaser contains "://" or teaser_first_char == "/" %}
+          {% assign teaser_path = teaser %}
+        {% elsif teaser contains "/images/" %}
+          {% assign teaser_path = teaser | prepend: base_path %}
+        {% else %}
+          {% assign teaser_path = teaser | prepend: "/images/" | prepend: base_path %}
+        {% endif %}
+        <img src="{{ teaser_path }}" alt="{{ title }} teaser image" style="max-width: 760px; width: 100%; height: auto; display: block;">
+      </div>
+    {% endif %}
+
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+    </h2>
+
+    <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
+  </article>
+</div>
