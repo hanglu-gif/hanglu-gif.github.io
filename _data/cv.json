@@ -142,11 +142,25 @@
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "PhD Research Overview: High-speed Optoelectronics and Photonic Integration",
       "category": "portfolio",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "/portfolio/phd-research-overview/",
+      "description": "Overview of VCSEL/Micro-LED/photonic integration research with simulation, nanofabrication, and experimental characterization.<br/><img src='/portfolio/portfolio1.jpg'>"
+    },
+    {
+      "name": "Optoelectronic Device Applications",
+      "category": "portfolio",
+      "date": "",
+      "url": "/portfolio/optoelectronic-device-applications/",
+      "description": "Demonstrated optoelectronic devices for communication, imaging/illumination, random number generation, and hardware security authentication.<br/><img src='/portfolio/portfolio3.jpg'>"
+    },
+    {
+      "name": "Industry Experience: AR Display Architecture Design",
+      "category": "portfolio",
+      "date": "",
+      "url": "/portfolio/industry-experience-ar-display/",
+      "description": "Lens-free, solid-state AR display engine architecture with compact optical combiner design for AR glasses.<br/><img src='/portfolio/portfolio4.jpg'>"
     }
   ]
 }
