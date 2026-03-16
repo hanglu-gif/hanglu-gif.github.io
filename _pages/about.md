@@ -49,7 +49,7 @@ author_profile: true
 - Designed and prototyped chaotic-cavity VCSEL systems for high-speed communication and illumination applications  
 - Performed III–V device simulation using COMSOL, Lumerical, Tidy3D, RSoft, and Silvaco  
 - Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, RF spectra, spatial coherence, near- and far-field patterns, and thermal performance  
-- Built fiber-based and free-space GHz-class optical communication links, validating bandwidth, eye diagrams, jitter, and parasitic effects  
+- Built fiber-based and free-space GHz-class optical communication links, validating bandwidth, eye diagrams, and data rates
 - Applied machine learning techniques for optical signal classification, device identification, and robustness evaluation  
 
 ---
@@ -62,10 +62,12 @@ A complete list of my journal publications, conference papers, and invited talks
 ## 🏅 Service & Awards
 - Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on. 
 - KAUST Dean’s List Award (2023, 2024)  
-- KAUST Career Fair Ambassador (2023)  
+- KAUST Career Fair Ambassador (2023)
+- Orientation leader (2023, 2022) 
 - KAUST “Green Road” Excellent Volunteer Leader (2022)  
 - UESTC First-Class Scholarship (2018–2020)  
 - National Excellent Youth Award, China (2020)
+- President of the Red Cross in UESTC (2019)
 
 ---
 
