@@ -4,7 +4,7 @@ title: "Hang Lu"
 author_profile: true
 ---
 
-<div style="text-align: justify; text-justify: inter-word;">
+<div style="text-align: justify;">
 
 Welcome to my homepage.
 
@@ -20,7 +20,7 @@ My work adopts a full-stack approach to photonic system development, spanning de
 
 ## Research Interests
 - Photonic integrated circuits (PICs)
-- Optoelectronicsm especially vertical surface emitting lasers (VCSELs), micro-LEDs and photodetectors
+- Optoelectronics， especially vertical surface emitting lasers (VCSELs), micro-LEDs and photodetectors
 - High-speed optical and electro-optical communication systems  
 - Optical entropy sources, random number generation, and photonic PUFs 
 - AR display architectures
@@ -49,7 +49,7 @@ My work adopts a full-stack approach to photonic system development, spanning de
 - Designed and prototyped chaotic-cavity VCSEL systems for high-speed communication and illumination applications  
 - Performed III–V device simulation using COMSOL, Lumerical, Tidy3D, RSoft, and Silvaco  
 - Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, RF spectra, spatial coherence, near- and far-field patterns, and thermal performance  
-- Built fiber-based and free-space GHz-class optical communication links, validating bandwidth, eye diagrams, jitter, and parasitic effects  
+- Built fiber-based and free-space GHz-class optical communication links, validating bandwidth, eye diagrams, and data rates
 - Applied machine learning techniques for optical signal classification, device identification, and robustness evaluation  
 
 ---
@@ -60,12 +60,15 @@ A complete list of my journal publications, conference papers, and invited talks
 ---
 
 ## Service & Awards
-- Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on. 
+- Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on.
+- IEDM Travel Scholarship (2025)
 - KAUST Dean’s List Award (2023, 2024)  
-- KAUST Career Fair Ambassador (2023)  
+- KAUST Career Fair Ambassador (2023)
+- Orientation leader (2023, 2022) 
 - KAUST “Green Road” Excellent Volunteer Leader (2022)  
 - UESTC First-Class Scholarship (2018–2020)  
 - National Excellent Youth Award, China (2020)
+- President of the Red Cross in UESTC (2019)
 
 ---
 
