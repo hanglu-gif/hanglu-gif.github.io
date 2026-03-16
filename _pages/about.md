@@ -4,17 +4,17 @@ title: "Hang Lu"
 author_profile: true
 ---
 
-<div style="text-align: justify;">
-
 Welcome to my homepage.
+{: style="text-align: justify; text-justify: inter-word;"}
 
 I am Hang Lu, a PhD candidate in Electrical Engineering with a research focus on optoelectronic devices and photonic integration.
+{: style="text-align: justify; text-justify: inter-word;"}
 
 I am currently pursuing my PhD at King Abdullah University of Science and Technology (KAUST) in the ([KAUST Photonics Lab](https://www.kaustphotonics.org/)), under the supervision of Prof. Boon S. Ooi. My research focus on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers, especially VCSELs, microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumincation, and hardware security.
+{: style="text-align: justify; text-justify: inter-word;"}
 
 My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
-
-</div>
+{: style="text-align: justify; text-justify: inter-word;"}
 
 ---
 
