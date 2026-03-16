@@ -4,28 +4,28 @@ title: "Hang Lu"
 author_profile: true
 ---
 
-Welcome to my homepage.
+👋 Welcome to my homepage.
 {: style="text-align: justify; text-justify: inter-word;"}
 
-I am Hang Lu, a PhD candidate in Electrical Engineering with a research focus on optoelectronic devices and photonic integration.
+🔬 I am Hang Lu, a PhD candidate in Electrical Engineering with a research focus on optoelectronic devices and photonic integration.
 {: style="text-align: justify; text-justify: inter-word;"}
 
-I am currently pursuing my PhD at King Abdullah University of Science and Technology (KAUST) in the ([KAUST Photonics Lab](https://www.kaustphotonics.org/)), under the supervision of Prof. Boon S. Ooi. My research focus on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers, especially VCSELs, microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumincation, and hardware security.
+🎓 I am currently pursuing my PhD at King Abdullah University of Science and Technology (KAUST) in the [KAUST Photonics Lab](https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi. My research focuses on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers (especially VCSELs), microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumination, and hardware security.
 {: style="text-align: justify; text-justify: inter-word;"}
 
-My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
+🧩 My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
 {: style="text-align: justify; text-justify: inter-word;"}
 
 ---
 
-## Research Interests
-- Photonic integrated circuits (PICs)
-- Optoelectronics， especially vertical surface emitting lasers (VCSELs), micro-LEDs and photodetectors
-- High-speed optical and electro-optical communication systems  
-- Optical entropy sources, random number generation, and photonic PUFs 
-- AR display architectures
+## 🔭 Research Interests
+- 🧠 Photonic integrated circuits (PICs)
+- 💡 Optoelectronics, especially vertical-cavity surface-emitting lasers (VCSELs), micro-LEDs, and photodetectors
+- ⚡ High-speed optical and electro-optical communication systems  
+- 🔐 Optical entropy sources, random number generation, and photonic PUFs 
+- 🥽 AR display architectures
  
-## Education
+## 🎓 Education
 - PhD in Electrical and Computer Engineering, KAUST (2023.01 – Present)  
   Advisor: Prof. Boon S. Ooi  
 - M.S. in Electrical and Computer Engineering, KAUST (2021.09 – 2022.12)  
@@ -35,7 +35,7 @@ My work adopts a full-stack approach to photonic system development, spanning de
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 **Research Internship at Meta** (2025.06 – 2025.11)  
 - Conducted high-speed photonic integrated circuit modeling and system architecture design  
 - Designed PIC-based architectures for high-speed 2D beam steering, including modulator–waveguide–grating co-design and display-level performance evaluation  
@@ -45,7 +45,7 @@ My work adopts a full-stack approach to photonic system development, spanning de
 
 ---
 
-## Research Highlights
+## ✨ Research Highlights
 - Designed and prototyped chaotic-cavity VCSEL systems for high-speed communication and illumination applications  
 - Performed III–V device simulation using COMSOL, Lumerical, Tidy3D, RSoft, and Silvaco  
 - Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, RF spectra, spatial coherence, near- and far-field patterns, and thermal performance  
@@ -54,14 +54,13 @@ My work adopts a full-stack approach to photonic system development, spanning de
 
 ---
 
-## Selected Publications & Presentations
+## 📚 Selected Publications & Presentations
 A complete list of my journal publications, conference papers, and invited talks is available on the Publications page. My work has appeared in journals including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics*, *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper), and *npj Nanophotonics* (Invited perspective paper).
 
 ---
 
-## Service & Awards
-- Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on.
-- IEDM Travel Scholarship (2025)
+## 🏅 Service & Awards
+- Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on. 
 - KAUST Dean’s List Award (2023, 2024)  
 - KAUST Career Fair Ambassador (2023)
 - Orientation leader (2023, 2022) 
@@ -72,5 +71,5 @@ A complete list of my journal publications, conference papers, and invited talks
 
 ---
 
-## Contact
-- Email: *hang.lu@kaust.edu.sa* 
+## 📬 Contact
+- ✉️ Email: *hang.lu@kaust.edu.sa* 
