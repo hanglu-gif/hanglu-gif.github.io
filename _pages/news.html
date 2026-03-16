@@ -5,13 +5,43 @@ title: "News"
 author_profile: true
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+## 📰 Latest Updates
+
+<div class="notice--info" markdown="1">
+I keep this page updated in reverse chronological order (newest → oldest).
+</div>
+
+### 2026
+- **🏅 I have finalized a 20-week internship at Meta.**  
+  <span style="color:#666;">📅 2026.10 · 📍 Seattle, US</span>
+
+- **🎉 Our paper is accepted by _Nature Electronics_.**  
+  <span style="color:#666;">📅 2026.03 · 📍 KAUST</span>
+
+- **🎓 I have scheduled my PhD defense on April 23.**  
+  <span style="color:#666;">📅 2026.02 · 📍 KAUST</span>
+
+- **🎤 I am invited to give a research talk at Applied Materials.**  
+  <span style="color:#666;">📅 2026.01</span>
+
+### 2025
+- **🗣️ I orally presented our paper at IEDM (one of the most prestigious conferences in the field).**  
+  <span style="color:#666;">📅 2025.12 · 📍 San Francisco</span>
+
+- **🗣️ I orally presented our paper at IPC.**  
+  <span style="color:#666;">📅 2025.12 · 📍 Singapore</span>
+
+- **📄 Our paper was accepted by _Light: Science & Applications_.**  
+  <span style="color:#666;">📅 2025.08</span>
+
+- **💼 I started my internship at Meta (Seattle/Redmond office).**  
+  <span style="color:#666;">📅 2025.06</span>
+
+- **📄 Our paper was accepted by the CLEO conference.**  
+  <span style="color:#666;">📅 2025.04</span>
+
+- **🌟 Our paper was selected as a cover paper in JSTQE.**  
+  <span style="color:#666;">📅 2025.03</span>
+
+- **📄 Our paper was accepted by _APL Photonics_.**  
+  <span style="color:#666;">📅 2025.02</span>
