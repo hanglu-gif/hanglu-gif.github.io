@@ -18,7 +18,7 @@ Education
   M.S. in Electrical and Computer Engineering *(2021.09–2022.12)*  
   Advisor: Prof. Boon S. Ooi
 * **University of Electronic Science and Technology of China (UESTC)**, China  
-  B.Eng. in Electronic and Information Engineering *(2017.09–2021.06)*
+  B.S. in Electronic and Information Engineering *(2017.09–2021.06)*
 
 Research
 ======
