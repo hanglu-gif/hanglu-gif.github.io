@@ -5,9 +5,21 @@ permalink: /life/
 author_profile: true
 ---
 
-A glimpse of my life outside research.
+Outside of research, I value activities that keep me curious, grounded, and open-minded.
 
-More updates and photos coming soon.
+- 🎹 **Piano** — learning to appreciate structure, rhythm, and disciplined practice.
+- 🌊 **Diving** — exploring unfamiliar environments with calmness and control.
+- 📷 **Photography** — observing light, patterns, and subtle details in complex scenes.
+- ⛳ **Golf** — practicing consistency, patience, and mental focus.
+- 🏃‍♀️ **Running** — building endurance while maintaining rhythm and clarity.
+- 🚴‍♀️ **Cycling** — enjoying long-distance exploration and steady pacing.
+- ☕ **Coffee (latte art)** — valuing precision, craftsmanship, and attention to detail.
+
+I occasionally write science-related articles, trying to translate technical concepts into intuitive explanations. Some pieces have received encouraging feedback from readers, which motivates me to keep improving.
+
+I also enjoy traveling, and so far I have had the chance to visit more than 30 countries. Experiencing different cultures and perspectives has gradually shaped how I think, work, and relate to people.
+
+These experiences continue to influence how I approach research — with curiosity, patience, and a broader perspective.
 
 ## Visitor Guestbook
 
