@@ -159,6 +159,12 @@ analytics:
   google:
     tracking_id          :
 
+# Visitor map widget (optional)
+# Use the full src from ClustrMaps embed code.
+# Global widget example: //clustrmaps.com/globe.js?d=YOUR_TOKEN
+clustrmaps_widget_id     : "clstr_globe"
+clustrmaps_src           : "//clustrmaps.com/globe.js?d=naPeHMB3RfMIfnrcQpVnp7w14Rr3qoXXUcR3_PNFbXM"
+
 
 # Reading Files
 include:
