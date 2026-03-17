@@ -59,7 +59,7 @@ Service and Awards
 * KAUST Career Fair Ambassador (2023)
 * KAUST “Green Road” Excellent Volunteer Leader (2022)
 * UESTC First-Class Scholarship (2018, 2019, 2020)
-* National Excellent Youth Award (2020, top 50 nationwide)
+* National Excellent Youth Award (2020, 50 awardees nationwide)
 
 Selected Publications and Presentations
 ======
