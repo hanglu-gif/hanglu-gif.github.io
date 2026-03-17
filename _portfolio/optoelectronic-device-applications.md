@@ -9,8 +9,8 @@ This project highlights demonstrated device-level applications and performance i
 
 Representative outcomes:
 - High-speed optical communication capability
-- Imaging/illumination with reduced coherence-related interference
-- Chip-integrated random number generation
-- Hardware security authentication workflows
+- Imaging/illumination light sources with high-efficiency and reduced coherence-related interference
+- Chip-integrated optical entropy engine
+- Hardware security authentication system
 
 <img src="/portfolio/portfolio3.jpg" alt="Optoelectronic device applications and outcomes" style="width:100%; max-width:980px; height:auto; border-radius:8px; margin-top:10px;" />
