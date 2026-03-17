@@ -159,6 +159,10 @@ analytics:
   google:
     tracking_id          :
 
+# Visitor map widget (optional)
+# Sign up at https://clustrmaps.com/, then paste your map token below.
+clustrmaps_id            : ""
+
 
 # Reading Files
 include:

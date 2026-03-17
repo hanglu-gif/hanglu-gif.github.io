@@ -71,5 +71,16 @@ A complete list of my journal publications, conference papers, and invited talks
 
 ---
 
+## 🌍 Visitor Map
+<div style="margin: 0.8rem 0;">
+  {% if site.clustrmaps_id and site.clustrmaps_id != "" %}
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d={{ site.clustrmaps_id }}&cl=ffffff&w=420&t=tt&dpu=5f7f7f"></script>
+  {% else %}
+  <em>Visitor map is not configured yet. Add your ClustrMaps token in <code>_config.yml</code> under <code>clustrmaps_id</code>.</em>
+  {% endif %}
+</div>
+
+---
+
 ## 📬 Contact
 - ✉️ Email: *hang.lu@kaust.edu.sa* 
