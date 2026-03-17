@@ -71,14 +71,14 @@ A complete list of my journal publications, conference papers, and invited talks
 
 ---
 
-## 🌍 Visitor Map
-{% if site.clustrmaps_src and site.clustrmaps_src != "" %}
-<div style="margin: 0.8rem 0; max-width: 240px; width: 100%;">
-  <script type="text/javascript" id="{{ site.clustrmaps_widget_id | default: 'clstr_globe' | escape }}" src="{{ site.clustrmaps_src | escape }}"></script>
-</div>
-{% endif %}
+## 📬 Contact
+- ✉️ Email: *hang.lu@kaust.edu.sa*
 
 ---
 
-## 📬 Contact
-- ✉️ Email: *hang.lu@kaust.edu.sa*
+## 🌍 Visitor Map
+{% if site.clustrmaps_src and site.clustrmaps_src != "" %}
+<div style="margin: 0.8rem 0; max-width: 200px; width: 100%;">
+  <script type="text/javascript" id="{{ site.clustrmaps_widget_id | default: 'clstr_globe' | escape }}" src="{{ site.clustrmaps_src | escape }}"></script>
+</div>
+{% endif %}
