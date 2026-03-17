@@ -8,7 +8,7 @@ order: 1
 This project summarizes my PhD work in **high-speed optoelectronics and integrated photonics**.
 
 Key focus areas include:
-- VCSEL and Micro-LED device concepts
+- Lasers, VCSELs, Micro-LEDs, Photodetectors, Waveguides, gratings, and modulators design and physcical modeling
 - Photonic integration (modulators, gratings, couplers)
 - Simulation and modeling (COMSOL, Lumerical, Python)
 - Nanofabrication and laboratory characterization
