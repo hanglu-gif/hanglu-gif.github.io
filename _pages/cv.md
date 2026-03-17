@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **King Abdullah University of Science and Technology (KAUST)**, Saudi Arabia  
-  Ph.D. Candidate in Electrical and Computer Engineering, Optoelectronics and Photonics *(2021.09–Present)*  
+  Ph.D. Candidate in Electrical and Computer Engineering, Optoelectronics and Photonics *(2023.01–Present)*  
   Advisor: Prof. Boon S. Ooi
 * **King Abdullah University of Science and Technology (KAUST)**, Saudi Arabia  
   M.S. in Electrical and Computer Engineering *(2021.09–2022.12)*  
