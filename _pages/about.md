@@ -13,7 +13,7 @@ author_profile: true
 🎓 I am currently pursuing my PhD at King Abdullah University of Science and Technology (KAUST) in the [KAUST Photonics Lab](https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi. My research focuses on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers (especially VCSELs), microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumination, and hardware security.
 {: style="text-align: justify; text-justify: inter-word;"}
 
-🧩 My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
+🧩 My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, modulators and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
 {: style="text-align: justify; text-justify: inter-word;"}
 
 ---
@@ -48,14 +48,14 @@ author_profile: true
 ## ✨ Research Highlights
 - Designed and prototyped chaotic-cavity VCSEL systems for high-speed communication and illumination applications  
 - Performed III–V device simulation using COMSOL, Lumerical, Tidy3D, RSoft, and Silvaco  
-- Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, RF spectra, spatial coherence, near- and far-field patterns, and thermal performance  
+- Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, optical and RF spectra, spatial coherence, near- and far-field patterns, and thermal performance  
 - Built fiber-based and free-space GHz-class optical communication links, validating bandwidth, eye diagrams, and data rates
 - Applied machine learning techniques for optical signal classification, device identification, and robustness evaluation  
 
 ---
 
 ## 📚 Selected Publications & Presentations
-A complete list of my journal publications, conference papers, and invited talks is available on the Publications page. My work has appeared in journals including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics*, *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper), and *npj Nanophotonics* (Invited perspective paper).
+A complete list of my journal publications, conference papers, and invited talks is available on the Publications page. My first/co-first author work has appeared in journals including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics* (Featured Article), *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper), and *npj Nanophotonics* (Invited perspective paper).
 
 ---
 
@@ -73,7 +73,7 @@ A complete list of my journal publications, conference papers, and invited talks
 
 ## 🌍 Visitor Map
 {% if site.clustrmaps_src and site.clustrmaps_src != "" %}
-<div style="margin: 0.8rem 0; max-width: 420px; width: 100%;">
+<div style="margin: 0.8rem 0; max-width: 300px; width: 100%;">
   <script type="text/javascript" id="{{ site.clustrmaps_widget_id | default: 'clstr_globe' | escape }}" src="{{ site.clustrmaps_src | escape }}"></script>
 </div>
 {% endif %}
@@ -81,4 +81,4 @@ A complete list of my journal publications, conference papers, and invited talks
 ---
 
 ## 📬 Contact
-- ✉️ Email: *hang.lu@kaust.edu.sa* 
+- ✉️ Email: *hang.lu@kaust.edu.sa*
