@@ -5,7 +5,7 @@ permalink: /life/
 author_profile: true
 ---
 
-Outside of research, I value activities that keep me curious, grounded, and open-minded.
+Outside of research, I enjoy activities that keep me curious, grounded, and open-minded.
 
 - 🎹 **Piano** — learning to appreciate structure, rhythm, and disciplined practice.
 - 🌊 **Diving** — exploring unfamiliar environments with calmness and control.
@@ -15,11 +15,12 @@ Outside of research, I value activities that keep me curious, grounded, and open
 - 🚴‍♀️ **Cycling** — enjoying long-distance exploration and steady pacing.
 - ☕ **Coffee (latte art)** — valuing precision, craftsmanship, and attention to detail.
 
-I occasionally write science-related articles, trying to translate technical concepts into intuitive explanations. Some pieces have received encouraging feedback from readers, which motivates me to keep improving.
+✍️ I occasionally write science-related articles, translating technical concepts into more intuitive explanations.  
+Some of my articles have received 1000+ saves, with total views exceeding 10,000.
 
 I also enjoy traveling, and so far I have had the chance to visit more than 30 countries. Experiencing different cultures and perspectives has gradually shaped how I think, work, and relate to people.
 
-These experiences continue to influence how I approach research — with curiosity, patience, and a broader perspective.
+These experiences continue to remind me to be with curiosity, patience, and a broader perspective.
 
 ## Visitor Guestbook
 
