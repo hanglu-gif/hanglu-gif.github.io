@@ -19,8 +19,8 @@ author_profile: true
 ---
 
 ## 🔭 Research Interests
-- 🧠 Photonic integrated circuits (PICs)
 - 💡 Optoelectronics, especially vertical-cavity surface-emitting lasers (VCSELs), micro-LEDs, and photodetectors
+- 🧠 Photonic integrated circuits (PICs)
 - ⚡ High-speed optical and electro-optical communication systems  
 - 🔐 Optical entropy sources, random number generation, and photonic PUFs 
 - 🥽 AR display architectures
@@ -46,7 +46,7 @@ author_profile: true
 ---
 
 ## ✨ Research Highlights
-- Designed and prototyped chaotic-cavity VCSEL systems for high-speed communication and illumination applications  
+- Designed and prototyped chaotic-cavity VCSELs for high-speed communication, high-efficiency and low-speckle illumination, and security applications  
 - Performed III–V device simulation using COMSOL, Lumerical, Tidy3D, RSoft, and Silvaco  
 - Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, optical and RF spectra, spatial coherence, near- and far-field patterns, and thermal performance  
 - Built fiber-based and free-space GHz-class optical communication links, validating bandwidth, eye diagrams, and data rates
@@ -55,18 +55,21 @@ author_profile: true
 ---
 
 ## 📚 Selected Publications & Presentations
-A complete list of my journal publications, conference papers, and invited talks is available on the Publications page. My first/co-first author work has appeared in journals including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics* (Featured Article), *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper), and *npj Nanophotonics* (Invited perspective paper).
+A complete list of my journal publications, conference papers, and invited talks is available on the Publications page. 
+
+My first/co-first author work has appeared in journals including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics* (Featured Article), *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper), and *npj Nanophotonics* (Invited perspective paper).
 
 ---
 
 ## 🏅 Service & Awards
-- Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on. 
-- KAUST Dean’s List Award (2023, 2024)  
+- Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on.
+- IEDM Travel Scholarship (2025)
+- KAUST Dean’s List Award (2024, 2023)  
 - KAUST Career Fair Ambassador (2023)
-- Orientation leader (2023, 2022) 
+- KAUST Orientation Leader (2023, 2022) 
 - KAUST “Green Road” Excellent Volunteer Leader (2022)  
 - UESTC First-Class Scholarship (2018–2020)  
-- National Excellent Youth Award, China (2020)
+- National Excellent Youth Award, China (Selected as one of 50 recipients nationwide, 2020)
 - President of the Red Cross in UESTC (2019)
 
 ---
