@@ -304,11 +304,17 @@
   }
 
   li {
-    white-space: nowrap;
+    display: flex;
+    align-items: flex-start;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    gap: 0.25rem;
   }
 
   a {
     display: block;
+    white-space: normal;
+    overflow-wrap: anywhere;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
