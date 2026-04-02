@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hang Lu \| KAUST Photonics"
+title: "Hang Lu"
 description: "Hang Lu's academic homepage at KAUST: photonics, optoelectronic devices, VCSELs, microLEDs, photodetectors, and photonic integrated circuits."
 excerpt: "PhD candidate at KAUST working on photonics, VCSELs, microLEDs, photodetectors, and photonic integrated circuits."
 author_profile: true
