@@ -143,8 +143,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "bio-photo.jpg" # Social media default site image
+og_description           : "Hang Lu's academic homepage at KAUST, featuring work in photonics, VCSELs, microLEDs, and photonic integrated circuits."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
