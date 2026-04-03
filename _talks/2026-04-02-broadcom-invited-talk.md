@@ -7,7 +7,7 @@ venue: "Broadcom"
 date: 2026-04-02
 location: "Online"
 header:
-  teaser: /images/talks/broadcom-2026-04-02.svg
+  teaser: /images/talks/Broadcom.jpg
 ---
 
 Invited seminar at Broadcom.
