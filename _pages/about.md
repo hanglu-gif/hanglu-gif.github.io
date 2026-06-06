@@ -83,7 +83,19 @@ My first/co-first author work has appeared in journals including *Nature Electro
 
 ## 🌍 Visitor Map
 {% if site.clustrmaps_src and site.clustrmaps_src != "" %}
-<div style="margin: 0.8rem 0; max-width: 200px; width: 100%;">
-  <script type="text/javascript" id="{{ site.clustrmaps_widget_id | default: 'clstr_globe' | escape }}" src="{{ site.clustrmaps_src | escape }}"></script>
+<div class="visitor-map" style="margin: 0.8rem 0; max-width: 200px; width: 100%;">
+  {% if site.clustrmaps_image_src %}
+  <div id="visitor-map-fallback" style="display: none;">
+    <img src="{{ site.clustrmaps_image_src | escape }}" alt="Visitor map" style="max-width: 200px; width: 100%; height: auto;" />
+  </div>
+  {% endif %}
+  <script type="text/javascript" id="{{ site.clustrmaps_widget_id | default: 'clustrmaps' | escape }}" src="{{ site.clustrmaps_src | escape }}" onerror="var fallback = document.getElementById('visitor-map-fallback'); if (fallback) fallback.style.display='block';"></script>
+  <noscript>
+    {% if site.clustrmaps_image_src %}
+    <img src="{{ site.clustrmaps_image_src | escape }}" alt="Visitor map" style="max-width: 200px; width: 100%; height: auto;" />
+    {% else %}
+    <p>Visitor map requires JavaScript to load.</p>
+    {% endif %}
+  </noscript>
 </div>
 {% endif %}
