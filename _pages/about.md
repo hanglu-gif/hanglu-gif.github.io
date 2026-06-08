@@ -83,19 +83,13 @@ My first/co-first author work has appeared in journals including *Nature Electro
 
 ## 🌍 Visitor Map
 {% if site.clustrmaps_src and site.clustrmaps_src != "" %}
-<div class="visitor-map" style="margin: 0.8rem 0; max-width: 200px; width: 100%;">
-  {% if site.clustrmaps_image_src %}
-  <div id="visitor-map-fallback" style="display: none;">
-    <img src="{{ site.clustrmaps_image_src | escape }}" alt="Visitor map" style="max-width: 200px; width: 100%; height: auto;" />
+<div class="visitor-map" style="margin: 0.8rem 0; max-width: 220px; width: 100%;">
+  <div id="visitor-map-fallback" style="display: none; font-size: 0.85rem; line-height: 1.35; color: #666; border: 1px solid #ddd; border-radius: 6px; padding: 0.6rem;">
+    Visitor map is temporarily unavailable because the ClustrMaps service did not load.
   </div>
-  {% endif %}
   <script type="text/javascript" id="{{ site.clustrmaps_widget_id | default: 'clustrmaps' | escape }}" src="{{ site.clustrmaps_src | escape }}" onerror="var fallback = document.getElementById('visitor-map-fallback'); if (fallback) fallback.style.display='block';"></script>
   <noscript>
-    {% if site.clustrmaps_image_src %}
-    <img src="{{ site.clustrmaps_image_src | escape }}" alt="Visitor map" style="max-width: 200px; width: 100%; height: auto;" />
-    {% else %}
-    <p>Visitor map requires JavaScript to load.</p>
-    {% endif %}
+    <p style="font-size: 0.85rem; line-height: 1.35; color: #666; border: 1px solid #ddd; border-radius: 6px; padding: 0.6rem;">Visitor map requires JavaScript to load.</p>
   </noscript>
 </div>
 {% endif %}

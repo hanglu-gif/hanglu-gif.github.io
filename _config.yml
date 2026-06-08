@@ -163,10 +163,9 @@ analytics:
 
 # Visitor map widget (optional)
 # Use the full src from ClustrMaps embed code.
-# Map widget example: https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=YOUR_TOKEN
+# Map widget example: https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=YOUR_TOKEN
 clustrmaps_widget_id     : "clustrmaps"
-clustrmaps_src           : "https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=naPeHMB3RfMIfnrcQpVnp7w14Rr3qoXXUcR3_PNFbXM"
-clustrmaps_image_src     : "https://clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=n&d=naPeHMB3RfMIfnrcQpVnp7w14Rr3qoXXUcR3_PNFbXM"
+clustrmaps_src           : "https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=naPeHMB3RfMIfnrcQpVnp7w14Rr3qoXXUcR3_PNFbXM"
 
 
 # Reading Files
