@@ -161,6 +161,13 @@ analytics:
   google:
     tracking_id          :
 
+# Visitor map widget (optional)
+# Use the full src from the MapMyVisitors embed code.
+# Globe widget example: https://mapmyvisitors.com/globe.js?d=YOUR_TOKEN
+visitor_map_widget_id    : "mmvst_globe"
+visitor_map_src          : "https://mapmyvisitors.com/globe.js?d=8EPW_7eXZQHjlkzWI23Bct2oF8BpJ3mphompKfn8N8o"
+
+
 # Reading Files
 include:
   - .htaccess
