@@ -78,3 +78,15 @@ My first/co-first author work has appeared in journals including *Nature Electro
 
 ## 📬 Contact
 - ✉️ Email: *hang.lu@kaust.edu.sa*
+
+---
+
+## 🌍 Visitor Map
+{% if site.clustrmaps_src and site.clustrmaps_src != "" %}
+<div class="visitor-map" style="margin: 0.8rem 0; max-width: 220px; width: 100%;">
+  <script type="text/javascript" id="{{ site.clustrmaps_widget_id | default: 'clustrmaps' | escape }}" src="{{ site.clustrmaps_src | escape }}"></script>
+  <noscript>
+    <p style="font-size: 0.85rem; line-height: 1.35; color: #666; border: 1px solid #ddd; border-radius: 6px; padding: 0.6rem;">Visitor map requires JavaScript to load.</p>
+  </noscript>
+</div>
+{% endif %}
