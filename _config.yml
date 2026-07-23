@@ -161,13 +161,6 @@ analytics:
   google:
     tracking_id          :
 
-# Visitor map widget (optional)
-# Use the full src from ClustrMaps embed code.
-# Map widget example: https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=YOUR_TOKEN
-clustrmaps_widget_id     : "clustrmaps"
-clustrmaps_src           : "https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=naPeHMB3RfMIfnrcQpVnp7w14Rr3qoXXUcR3_PNFbXM"
-
-
 # Reading Files
 include:
   - .htaccess
