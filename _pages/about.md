@@ -89,4 +89,5 @@ My first/co-first author work has appeared in journals including *Nature Electro
     <p style="font-size: 0.85rem; line-height: 1.35; color: #666; border: 1px solid #ddd; border-radius: 6px; padding: 0.6rem;">Visitor map requires JavaScript to load.</p>
   </noscript>
 </div>
+<p id="visitor-map-caption" style="margin-top: -0.25rem; max-width: 220px; color: #666; font-size: 0.75rem; line-height: 1.35;">Live visitor locations update automatically; the globe is not a link.</p>
 {% endif %}
