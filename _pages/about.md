@@ -83,8 +83,8 @@ My first/co-first author work has appeared in journals including *Nature Electro
 
 ## 🌍 Visitor Map
 {% if site.visitor_map_src and site.visitor_map_src != "" %}
-<div class="visitor-map" style="margin: 0.8rem 0; max-width: 220px; width: 100%;">
-  <script type="text/javascript" id="{{ site.visitor_map_widget_id | default: 'mmvst_globe' | escape }}" src="{{ site.visitor_map_src | escape }}"></script>
+<div class="visitor-map" style="margin: 0.8rem 0; max-width: 600px; width: 100%;" aria-label="Live visitor map">
+  <script type="text/javascript" id="{{ site.visitor_map_widget_id | default: 'mapmyvisitors' | escape }}" src="{{ site.visitor_map_src | escape }}"></script>
   <noscript>
     <p style="font-size: 0.85rem; line-height: 1.35; color: #666; border: 1px solid #ddd; border-radius: 6px; padding: 0.6rem;">Visitor map requires JavaScript to load.</p>
   </noscript>
