@@ -163,9 +163,9 @@ analytics:
 
 # Visitor map widget (optional)
 # Use the full src from the MapMyVisitors embed code.
-# Globe widget example: https://mapmyvisitors.com/globe.js?d=YOUR_TOKEN
-visitor_map_widget_id    : "mmvst_globe"
-visitor_map_src          : "https://mapmyvisitors.com/globe.js?d=8EPW_7eXZQHjlkzWI23Bct2oF8BpJ3mphompKfn8N8o"
+# 2D map widget example: https://mapmyvisitors.com/map.js?d=YOUR_TOKEN
+visitor_map_widget_id    : "mapmyvisitors"
+visitor_map_src          : "https://mapmyvisitors.com/map.js?d=u8QiTDtiwKYmVNdWRbGbLBOvthnTGeyr7iwVsq0Dmig&cl=ffffff&w=a"
 
 
 # Reading Files
