@@ -57,7 +57,9 @@ Professional Experience
 
 Service and Awards
 ======
-* Reviewer: *IEEE Photonics Technology Letters*, *Photonics Journal*, *Chinese Optics Letters*
+* Reviewer: *IEEE Photonics Technology Letters*, *Photonics Journal*, *Chinese Optics Letters*, and so on.
+* SPIE Optics and Photonics Education Scholarship (2026)
+* IEEE IEDM Student Travel Scholarship (2025)
 * KAUST Dean’s List Award (2023, 2024)
 * KAUST Career Fair Ambassador (2023)
 * KAUST “Green Road” Excellent Volunteer Leader (2022)
