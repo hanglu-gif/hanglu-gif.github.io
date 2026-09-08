@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<a href='/files/CV-Hang-2026-Jan.pdf' target='_blank' rel='noopener'>CV Download</a>"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **King Abdullah University of Science and Technology (KAUST)**, Saudi Arabia  
-  Ph.D. Candidate in Electrical and Computer Engineering, Optoelectronics and Photonics *(2023.01–Present)*  
+  Ph.D. in Electrical and Computer Engineering, Optoelectronics and Photonics *(2023.01–2026.06)*<br>
   Advisor: Prof. Boon S. Ooi
 * **King Abdullah University of Science and Technology (KAUST)**, Saudi Arabia  
   M.S. in Electrical and Computer Engineering *(2021.09–2022.12)*  
@@ -37,13 +37,16 @@ Core Skills
 
 Professional Experience
 ======
+* **Senior R&D Product Engineer, Broadcom Inc., Optical System Division** *(2026–Present)*
+  * Specializing in semiconductor optoelectronics and integrated photonics in Singapore.
+
 * **Intern, Meta** *(2025.06–2025.11)*
   * Designed and optimized PIC-based architectures for high-speed 2D beam steering.
   * Performed chip-scale and free-space optical integration for system-level optics.
   * Developed automated MATLAB/Python tools for optical modeling, system analysis, and performance prediction.
   * Collaborated with cross-functional teams (optics, electronics, mechanics) to define specifications and validate early prototypes.
 
-* **M.S./Ph.D. Researcher, KAUST** *(2021.09–Present)*
+* **M.S./Ph.D. Researcher, KAUST** *(2021.09–2026.06)*
   * Led design and prototyping of chaotic-cavity laser systems for high-speed communication and illumination.
   * Designed/simulated chaotic-cavity VCSELs (COMSOL), fabricated devices, and built test platforms for IV/LIV, modulation response, RF spectra, coherence, far-/near-field, and thermal behavior.
   * Built fiber and free-space GHz communication links; validated bandwidth, eye diagrams, parasitics, and system stability.

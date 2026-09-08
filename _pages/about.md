@@ -1,18 +1,21 @@
 ---
 permalink: /
 title: "Hang Lu"
-description: "Hang Lu's academic homepage at KAUST: photonics, optoelectronic devices, VCSELs, microLEDs, photodetectors, and photonic integrated circuits."
-excerpt: "PhD candidate at KAUST working on photonics, VCSELs, microLEDs, photodetectors, and photonic integrated circuits."
+description: "Hang Lu's personal homepage: Senior R&D Product Engineer at Broadcom, specializing in semiconductor optoelectronics and integrated photonics."
+excerpt: "Senior R&D Product Engineer at Broadcom working on semiconductor optoelectronics and integrated photonics."
 author_profile: true
 ---
 
 👋 Welcome to my homepage.
 {: style="text-align: justify; text-justify: inter-word;"}
 
-🔬 I am Hang Lu, a PhD candidate in Electrical Engineering with a research focus on optoelectronic devices and photonic integration.
+🔬 I am Hang Lu, a Senior R&D Product Engineer specializing in semiconductor optoelectronics and integrated photonics.
 {: style="text-align: justify; text-justify: inter-word;"}
 
-🎓 I am currently pursuing my PhD at King Abdullah University of Science and Technology (KAUST) in the [KAUST Photonics Lab](https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi. My research focuses on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers (especially VCSELs), microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumination, and hardware security.
+💼 I am currently with the Optical System Division at Broadcom Inc. in Singapore. My work focuses on semiconductor optoelectronics and integrated photonics.
+{: style="text-align: justify; text-justify: inter-word;"}
+
+🎓 I received my PhD in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) in June 2026. At the [KAUST Photonics Lab](https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi, my research focused on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers (especially VCSELs), microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumination, and hardware security.
 {: style="text-align: justify; text-justify: inter-word;"}
 
 🧩 My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, modulators and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
@@ -28,7 +31,7 @@ author_profile: true
 - 🥽 AR display architectures
  
 ## 🎓 Education
-- PhD in Electrical and Computer Engineering, KAUST (2023.01 – Present)  
+- PhD in Electrical and Computer Engineering, KAUST (2023.01 – 2026.06)<br>
   Advisor: Prof. Boon S. Ooi  
 - M.S. in Electrical and Computer Engineering, KAUST (2021.09 – 2022.12)  
   Advisor: Prof. Boon S. Ooi  
@@ -38,6 +41,10 @@ author_profile: true
 ---
 
 ## 💼 Professional Experience
+**Senior R&D Product Engineer, Broadcom Inc.** (2026 – Present)<br>
+- Optical System Division, Singapore
+- Specializing in semiconductor optoelectronics and integrated photonics
+
 **Research Internship at Meta** (2025.06 – 2025.11)  
 - Conducted high-speed photonic integrated circuit modeling and system architecture design  
 - Designed PIC-based architectures for high-speed 2D beam steering, including modulator–waveguide–grating co-design and display-level performance evaluation  
@@ -77,7 +84,7 @@ My first/co-first author work has appeared in journals including *Nature Electro
 ---
 
 ## 📬 Contact
-- ✉️ Email: *hang.lu@kaust.edu.sa*
+- ✉️ Email: *lh.daming@gmail.com*
 
 ---
 
