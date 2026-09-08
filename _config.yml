@@ -13,7 +13,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Hang Lu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hang Lu"
-description              : &description "Hang Lu's academic homepage: PhD candidate in Electrical and Computer Engineering at KAUST, with research in photonics and optoelectronics."
+description              : &description "Hang Lu's personal homepage: Senior R&D Product Engineer at Broadcom, specializing in semiconductor optoelectronics and integrated photonics."
 url                      : https://hanglu-gif.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,11 +27,11 @@ author:
   avatar           : "hangprofile.png"
   name             : "Hang Lu"
   pronouns         : "she/her"  
-  bio              : "PhD candidate in Electrical and Computer Engineering at KAUST"
-  location         : "Saudi Arabia"
-  employer         : "King Abdullah University of Science and Technology"
+  bio              : "Senior R&D Product Engineer in semiconductor optoelectronics and integrated photonics"
+  location         : "Singapore"
+  employer         : "Broadcom Inc. · Optical System Division"
   uri              : # URL
-  email            : "hang.lu@kaust.edu.sa" 
+  email            : "lh.daming@gmail.com"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=EgY7UKYAAAAJ&hl=en"
@@ -144,7 +144,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "bio-photo.jpg" # Social media default site image
-og_description           : "Hang Lu's academic homepage at KAUST, featuring work in photonics, VCSELs, microLEDs, and photonic integrated circuits."
+og_description           : "Hang Lu's personal homepage, featuring work in semiconductor optoelectronics and integrated photonics."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
