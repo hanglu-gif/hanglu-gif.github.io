@@ -43,7 +43,7 @@ author_profile: true
 ## 💼 Professional Experience
 **Senior R&D Product Engineer, Broadcom Inc.** (2026 – Present)<br>
 - Optical System Division, Singapore
-- Specializing in semiconductor optoelectronics and integrated photonics
+- Specializing in semiconductor optoelectronic devices 
 
 **Research Internship at Meta** (2025.06 – 2025.11)  
 - Conducted high-speed photonic integrated circuit modeling and system architecture design  
@@ -55,11 +55,11 @@ author_profile: true
 ---
 
 ## ✨ Research Highlights
-- Designed and prototyped chaotic-cavity VCSELs for high-speed communication, high-efficiency and low-speckle illumination, and security applications  
-- Performed III–V device simulation using COMSOL, Lumerical, Tidy3D, RSoft, and Silvaco  
-- Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, optical and RF spectra, spatial coherence, near- and far-field patterns, and thermal performance  
-- Built fiber-based and free-space GHz-class optical communication links, validating bandwidth, eye diagrams, and data rates
-- Applied machine learning techniques for optical signal classification, device identification, and robustness evaluation  
+- Designed and prototyped chaotic-cavity VCSELs for high-speed communication, high-efficiency and low-speckle illumination, and security applications.  
+- Performed III–V device simulation using COMSOL, Lumerical, Tidy3D, RSoft, and Silvaco.  
+- Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, optical and RF spectra, spatial coherence, near- and far-field patterns, and thermal performance.  
+- Built fiber-based and free-space GHz-class optical communication links, validating bandwidth, eye diagrams, and data rates.
+- Applied machine learning techniques for optical signal classification, device identification, and robustness evaluation.  
 
 ---
 
@@ -72,7 +72,8 @@ My first/co-first author work has appeared in journals including *Nature Electro
 
 ## 🏅 Service & Awards
 - Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on.
-- IEDM Travel Scholarship (2025)
+- SPIE Optics and Photonics Education Scholarship (2026)
+- IEEE IEDM Student Travel Scholarship (2025)
 - KAUST Dean’s List Award (2024, 2023)  
 - KAUST Career Fair Ambassador (2023)
 - KAUST Orientation Leader (2023, 2022) 

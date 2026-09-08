@@ -37,7 +37,7 @@ Core Skills
 
 Professional Experience
 ======
-* **Senior R&D Product Engineer, Broadcom Inc., Optical System Division** *(2026–Present)*
+* **Senior R&D Product Engineer, Broadcom Inc., Optical System Division** *(2026.07–Present)*
   * Specializing in semiconductor optoelectronics and integrated photonics in Singapore.
 
 * **Intern, Meta** *(2025.06–2025.11)*
@@ -57,7 +57,9 @@ Professional Experience
 
 Service and Awards
 ======
-* Reviewer: *IEEE Photonics Technology Letters*, *Photonics Journal*, *Chinese Optics Letters*
+* Reviewer: *IEEE Photonics Technology Letters*, *Photonics Journal*, *Chinese Optics Letters*, and so on.
+* SPIE Optics and Photonics Education Scholarship (2026)
+* IEEE IEDM Student Travel Scholarship (2025)
 * KAUST Dean’s List Award (2023, 2024)
 * KAUST Career Fair Ambassador (2023)
 * KAUST “Green Road” Excellent Volunteer Leader (2022)
@@ -66,7 +68,7 @@ Service and Awards
 
 Selected Publications and Presentations
 ======
-* **2026 (Accepted)** — Zhican Zhou*, Hang Lu*, et al.  
+* **2026** — Zhican Zhou*, Hang Lu*, et al.  
   “Chaos-based scalable optoelectronic physical unclonable functions with AI-driven dynamic authentication.”  
   *Nature Electronics*.
 * **2025** — Hang Lu, et al.  
@@ -87,8 +89,3 @@ Selected Publications and Presentations
 * **2024 (Invited Talk)** — Ooi, Boon S., Hang Lu, et al.  
   “Design and Applications of Low-Coherence Semiconductor Light Emitters.”  
   *Conference on Lasers and Electro-Optics (CLEO)*.
-
-Patents
-======
-* Ooi, Boon S., Omar Alkhazragi, Hang Lu, Nawal Almaymoni, Heming Lin. “A multifunctional monolithically integrated Photodetector-VCSEL chip for massively parallel optical communication, random number generation and quantum key distribution.” U.S. Patent Application (In progress, 2026).
-* Two patents related to AR display with Meta Inc. (In progress, 2026).
