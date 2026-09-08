@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<a href='/files/CV-Hang-2026-Jan.pdf' target='_blank' rel='noopener'>CV Download</a>"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
