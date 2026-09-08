@@ -73,7 +73,7 @@ My first/co-first author work has appeared in journals including *Nature Electro
 ## 🏅 Service & Awards
 - Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on.
 - SPIE Optics and Photonics Education Scholarship (2026)
-- IEEE IEDM Travel Scholarship (2025)
+- IEEE IEDM Student Travel Scholarship (2025)
 - KAUST Dean’s List Award (2024, 2023)  
 - KAUST Career Fair Ambassador (2023)
 - KAUST Orientation Leader (2023, 2022) 
