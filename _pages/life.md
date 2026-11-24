@@ -10,11 +10,10 @@ Outside of research, I enjoy spending time on things that help me slow down and 
 - 🎹 **Piano** — a relaxing way to focus and reflect.
 - 🌊 **Diving** — being in a completely different environment with calmness and control.
 - 📷 **Photography** — observing light, patterns, and subtle details in complex scenes.
-- ⛳ **Golf** — practicing consistency, patience, and mental focus.
-- 🏃‍♀️ **Running** — building endurance while maintaining rhythm and clarity.
 - 🚴‍♀️ **Cycling** — enjoying long-distance exploration and steady pacing.
 - 🍳 **Cooking** — enjoying the process of creating something simple and comforting.
 - ☕ **Coffee (latte art)** — small routines that require care and attention.
+- 🍷 **Red wine** — exploring different grape varieties and regions.
 
 ✍️ I also enjoy writing from time to time, especially when trying to explain technical ideas in a more intuitive way. Some of my articles have received 1000+ saves, with total views exceeding 10,000. It is always rewarding to see that something I wrote resonated with others.
 

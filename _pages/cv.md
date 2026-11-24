@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Education
+======
 * **King Abdullah University of Science and Technology (KAUST)**, Saudi Arabia  
   Ph.D. in Electrical and Computer Engineering, Optoelectronics and Photonics *(2023.01–2026.06)*<br>
   Advisor: Prof. Boon S. Ooi
@@ -19,10 +20,12 @@ redirect_from:
 * **University of Electronic Science and Technology of China (UESTC)**, China  
   B.S. in Electronic and Information Engineering *(2017.09–2021.06)*
 
-## Research
+Research
+======
 Semiconductor optoelectronics and photonic integrated circuits (PIC), including component design (laser, microLED, waveguide, grating, PD), epitaxy/device simulation, nanofabrication, characterization, and photonic integration. Experienced in full-stack PIC workflows from device-physics modeling to fabrication, optical/electrical testing, and system-level performance analysis for high-speed communication, beam steering, and imaging.
 
-## Core Skills
+Core Skills
+======
 * **Hardware Product Engineering:** Product qualification, manufacturing test-data analysis, yield optimization, failure analysis, new product introduction, and production ramp-up.
 * **Photonic Integrated Circuit (PIC) & System Architecture:** Designed emitter–detector integrated systems and high-speed 2D beam-steering PIC architectures with co-design across lasers, couplers, modulators, waveguides, and gratings.
 * **Optoelectronic Device Design:** 5+ years of experience in design, optimization, and characterization of lasers, micro-LEDs, and PDs for high-speed modulation; hands-on III–V epitaxial structure analysis.
@@ -33,7 +36,8 @@ Semiconductor optoelectronics and photonic integrated circuits (PIC), including 
 * **Programming & Signal Processing:** PyTorch, LabVIEW, Python, MATLAB, Origin.
 * **Optical Metrology:** SEM, photoluminescence (PL), UV-Vis spectroscopy.
 
-## Professional Experience
+Professional Experience
+======
 * **Senior Product Engineer, Broadcom Inc., Optical System Division**, Singapore *(2026.07–Present)*
   * Qualify optoelectronic hardware for high-volume manufacturing and analyze production test data to investigate failures and improve yield.
   * Work with process, manufacturing, reliability, and supplier engineering teams to resolve production issues.
@@ -55,7 +59,8 @@ Semiconductor optoelectronics and photonic integrated circuits (PIC), including 
   * Led micro-LED development for white-light illumination and communication.
   * Contributed to funded proposals, patents, and mentoring of junior students.
 
-## Service and Awards
+Service and Awards
+======
 * Reviewer: *IEEE Photonics Technology Letters*, *Photonics Journal*, *Chinese Optics Letters*, and so on.
 * SPIE Optics and Photonics Education Scholarship (2026)
 * IEEE IEDM Student Travel Scholarship (2025)
@@ -65,7 +70,8 @@ Semiconductor optoelectronics and photonic integrated circuits (PIC), including 
 * UESTC First-Class Scholarship (2018, 2019, 2020)
 * National Excellent Youth Award (2020, 50 awardees nationwide)
 
-## Selected Publications and Presentations
+Selected Publications and Presentations
+======
 * **2026** — Zhican Zhou*, Hang Lu*, et al.  
   [“Physical unclonable functions based on chaotic vertical-cavity surface-emitting lasers for dynamic authentication.”](https://www.nature.com/articles/s41928-026-01627-y)<br>
   *Nature Electronics* 9, 675–685.
