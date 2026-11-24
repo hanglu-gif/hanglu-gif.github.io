@@ -2,11 +2,11 @@
 permalink: /
 title: "Hang Lu"
 description: "Hang Lu's personal homepage: Senior Product Engineer at Broadcom, specializing in optoelectronic hardware and high-volume manufacturing."
-excerpt: "Senior Product Engineer at Broadcom working on optoelectronic hardware and high-volume manufacturing."
+excerpt: "Senior Product Engineer at Broadcom bridging optoelectronics research and high-volume hardware manufacturing."
 author_profile: true
 ---
 
-💼 I am a Senior Product Engineer at Broadcom in Singapore. My work focuses on product qualification, yield optimization, and new product introduction for optoelectronic hardware in high-volume manufacturing.
+💼 I am a Senior Product Engineer at Broadcom in Singapore. My work bridges optoelectronics research and product engineering. I draw on my experience designing and validating device prototypes to help bring optoelectronic hardware into high-volume production. At Broadcom, I support new product introduction, qualify hardware for production, and analyze manufacturing test data to investigate failures and improve yield.
 {: style="text-align: justify; text-justify: inter-word;"}
 
 🎓 I received my PhD in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) in June 2026. At the [KAUST Photonics Lab](https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi, my research focused on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers (especially VCSELs), microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumination, and hardware security.
