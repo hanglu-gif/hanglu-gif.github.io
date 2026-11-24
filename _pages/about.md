@@ -14,13 +14,6 @@ Explore my [engineering projects]({{ '/portfolio/' | relative_url }}), [publicat
 
 ---
 
-## 🔭 Research Interests
-- 💡 Optoelectronics, especially vertical-cavity surface-emitting lasers (VCSELs), micro-LEDs, and photodetectors
-- 🧠 Photonic integrated circuits (PICs)
-- ⚡ High-speed optical and electro-optical communication systems  
-- 🔐 Optical entropy sources, random number generation, and photonic PUFs 
-- 🥽 AR display architectures
- 
 ## 🎓 Education
 - PhD in Electrical and Computer Engineering, KAUST (2023.01 – 2026.06)<br>
   Advisor: Prof. Boon S. Ooi  
@@ -80,6 +73,15 @@ My work as first or co-first author has appeared in journals including *Nature E
 
 ## 📬 Contact
 [lh.daming@gmail.com](mailto:lh.daming@gmail.com)
+
+---
+
+## 🔭 Research Interests
+- 💡 Optoelectronics, especially vertical-cavity surface-emitting lasers (VCSELs), micro-LEDs, and photodetectors
+- 🧠 Photonic integrated circuits (PICs)
+- ⚡ High-speed optical and electro-optical communication systems  
+- 🔐 Optical entropy sources, random number generation, and photonic PUFs 
+- 🥽 AR display architectures
 
 ---
 
