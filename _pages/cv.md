@@ -26,6 +26,7 @@ Semiconductor optoelectronics and photonic integrated circuits (PIC), including 
 
 Core Skills
 ======
+* **Hardware Product Engineering:** Product qualification, manufacturing test-data analysis, yield optimization, failure analysis, new product introduction, and production ramp-up.
 * **Photonic Integrated Circuit (PIC) & System Architecture:** Designed emitter–detector integrated systems and high-speed 2D beam-steering PIC architectures with co-design across lasers, couplers, modulators, waveguides, and gratings.
 * **Optoelectronic Device Design:** 5+ years of experience in design, optimization, and characterization of lasers, micro-LEDs, and PDs for high-speed modulation; hands-on III–V epitaxial structure analysis.
 * **Modeling & Simulation Tools:** COMSOL, Lumerical, Tidy3D, R-soft, Silvaco, MATLAB, Python.
@@ -37,10 +38,13 @@ Core Skills
 
 Professional Experience
 ======
-* **Senior R&D Product Engineer, Broadcom Inc., Optical System Division** *(2026.07–Present)*
-  * Specializing in semiconductor optoelectronics and integrated photonics in Singapore.
+* **Senior Product Engineer, Broadcom Inc., Optical System Division**, Singapore *(2026.07–Present)*
+  * Qualify optoelectronic hardware for high-volume manufacturing and analyze production test data to investigate failures and improve yield.
+  * Work with process, manufacturing, reliability, and supplier engineering teams to resolve production issues.
+  * Develop AI-assisted workflows for failure triage and root-cause analysis.
+  * Support new product introduction, production line transfers, and manufacturing ramp-up.
 
-* **Intern, Meta** *(2025.06–2025.11)*
+* **Research Scientist Intern, Meta**, Redmond, Washington *(2025.06–2025.11)*
   * Designed and optimized PIC-based architectures for high-speed 2D beam steering.
   * Performed chip-scale and free-space optical integration for system-level optics.
   * Developed automated MATLAB/Python tools for optical modeling, system analysis, and performance prediction.
