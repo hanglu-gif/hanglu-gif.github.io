@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Senior Product Engineer with a PhD in Electrical and Computer Engineering. My experience spans semiconductor device design, fabrication, and system validation, as well as product qualification, yield improvement, and manufacturing ramp-up for optoelectronic hardware.
+
 Education
 ======
 * **King Abdullah University of Science and Technology (KAUST)**, Saudi Arabia  
@@ -22,14 +24,14 @@ Education
 
 Research
 ======
-Semiconductor optoelectronics and photonic integrated circuits (PIC), including component design (laser, microLED, waveguide, grating, PD), epitaxy/device simulation, nanofabrication, characterization, and photonic integration. Experienced in full-stack PIC workflows from device-physics modeling to fabrication, optical/electrical testing, and system-level performance analysis for high-speed communication, beam steering, and imaging.
+My research covered semiconductor optoelectronics and photonic integrated circuits (PICs). I designed and modeled lasers, micro-LEDs, photodetectors, waveguides, and gratings, then used nanofabrication and electro-optical testing to evaluate devices and integrated systems for communication, beam steering, and imaging.
 
 Core Skills
 ======
 * **Hardware Product Engineering:** Product qualification, manufacturing test-data analysis, yield optimization, failure analysis, new product introduction, and production ramp-up.
 * **Photonic Integrated Circuit (PIC) & System Architecture:** Designed emitter–detector integrated systems and high-speed 2D beam-steering PIC architectures with co-design across lasers, couplers, modulators, waveguides, and gratings.
 * **Optoelectronic Device Design:** 5+ years of experience in design, optimization, and characterization of lasers, micro-LEDs, and PDs for high-speed modulation; hands-on III–V epitaxial structure analysis.
-* **Modeling & Simulation Tools:** COMSOL, Lumerical, Tidy3D, R-soft, Silvaco, MATLAB, Python.
+* **Modeling & Simulation Tools:** COMSOL, Lumerical, Tidy3D, RSoft, Silvaco, MATLAB, Python.
 * **High-Speed Optical Communication:** Link bring-up and validation for GHz-class communication links (fiber and free-space); measurements with VNA, AWG, BERT, high-speed oscilloscopes, and PD/TIA chains.
 * **Nanofabrication & Process Engineering:** 5+ years of cleanroom experience (photolithography, ICP-RIE, e-beam evaporation, ALE, sputtering, PECVD, wet etching, thermal oxidation, wire bonding).
 * **Optical System Prototyping:** Designed and built custom optical benches for communication, imaging, and coherence characterization.
@@ -61,7 +63,7 @@ Professional Experience
 
 Service and Awards
 ======
-* Reviewer: *IEEE Photonics Technology Letters*, *Photonics Journal*, *Chinese Optics Letters*, and so on.
+* Peer reviewer for journals including *IEEE Photonics Technology Letters*, *IEEE Photonics Journal*, and *Chinese Optics Letters*.
 * SPIE Optics and Photonics Education Scholarship (2026)
 * IEEE IEDM Student Travel Scholarship (2025)
 * KAUST Dean’s List Award (2023, 2024)

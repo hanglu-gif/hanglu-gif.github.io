@@ -5,11 +5,6 @@ collection: portfolio
 order: 2
 ---
 
-This project presents industry-oriented AR display architecture exploration.
-
-Highlights:
-- Lens-free and solid-state AR display engine concept
-- Optical combiner architecture designed for direct AR-glasses integration
-- Compact and customizable stack considerations for practical implementation
+I explored a lens-free, solid-state display engine for augmented-reality glasses. The work examined how a compact optical combiner could fit into the glasses and how the optical stack could be adapted to different integration requirements.
 
 <img src="/portfolio/portfolio4.jpg" alt="AR display architecture design" style="width:100%; max-width:980px; height:auto; border-radius:8px; margin-top:10px;" />
