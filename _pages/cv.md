@@ -73,8 +73,8 @@ Service and Awards
 Selected Publications and Presentations
 ======
 * **2026** — Zhican Zhou*, Hang Lu*, et al.  
-  “Chaos-based scalable optoelectronic physical unclonable functions with AI-driven dynamic authentication.”  
-  *Nature Electronics*.
+  [“Physical unclonable functions based on chaotic vertical-cavity surface-emitting lasers for dynamic authentication.”](https://www.nature.com/articles/s41928-026-01627-y)<br>
+  *Nature Electronics* 9, 675–685.
 * **2025** — Hang Lu, et al.  
   “On-Chip Tamper-Resistant Quantum Entropy Source Enabled by Monolithic Emitter and Detector Integration.”  
   *International Electron Devices Meeting (IEDM)*.
@@ -84,9 +84,9 @@ Selected Publications and Presentations
 * **2025** — Hang Lu, et al.  
   “Ultrafast dynamics in tailored VCSEL cavity geometry toward high-efficiency physical random number generation.”  
   *APL Photonics* 10.4.
-* **2024** — Hang Lu, et al.  
-  “Parallel On-chip Physical Random Number Generator based on Self-chaotic Dynamics of Free-Running Broad-Area VCSEL Array.”  
-  *IEEE Journal of Selected Topics in Quantum Electronics* (**Cover paper**).
+* **2025** — Hang Lu, et al.<br>
+  [“Parallel On-Chip Physical Random Number Generator Based on Self-Chaotic Dynamics of Free-Running Broad-Area VCSEL Array.”](https://doi.org/10.1109/JSTQE.2024.3462489)<br>
+  *IEEE Journal of Selected Topics in Quantum Electronics* 31(2), 1700511 (**Cover paper**).
 * **2024** — Hang Lu, et al.  
   “Low-coherence semiconductor light sources: devices and applications.”  
   *npj Nanophotonics* 1.1, 9. (**Invited perspective paper**)
