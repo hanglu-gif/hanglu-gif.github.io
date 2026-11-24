@@ -4,27 +4,25 @@ title: "Hang Lu"
 description: "Hang Lu's personal homepage: Senior Product Engineer at Broadcom, specializing in optoelectronic hardware and high-volume manufacturing."
 excerpt: "Senior Product Engineer at Broadcom working on optoelectronic hardware and high-volume manufacturing."
 author_profile: true
+profile_intro: true
+profile_role: "Senior Product Engineer at Broadcom"
+profile_summary: "I work on product qualification, yield optimization, and new product introduction for optoelectronic hardware in high-volume manufacturing."
 ---
 
-💼 I am a Senior Product Engineer at Broadcom in Singapore. My work focuses on product qualification, yield optimization, and new product introduction for optoelectronic hardware in high-volume manufacturing.
-{: style="text-align: justify; text-justify: inter-word;"}
+I received my PhD in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) in June 2026. At the [KAUST Photonics Lab](https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi, my research focused on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers (especially VCSELs), microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumination, and hardware security.
 
-🎓 I received my PhD in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) in June 2026. At the [KAUST Photonics Lab](https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi, my research focused on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers (especially VCSELs), microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumination, and hardware security.
-{: style="text-align: justify; text-justify: inter-word;"}
-
-🧩 My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, modulators and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
-{: style="text-align: justify; text-justify: inter-word;"}
+My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, modulators and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
 
 ---
 
-## 🔭 Research Interests
-- 💡 Optoelectronics, especially vertical-cavity surface-emitting lasers (VCSELs), micro-LEDs, and photodetectors
-- 🧠 Photonic integrated circuits (PICs)
-- ⚡ High-speed optical and electro-optical communication systems  
-- 🔐 Optical entropy sources, random number generation, and photonic PUFs 
-- 🥽 AR display architectures
+## Research Interests
+- Optoelectronics, especially vertical-cavity surface-emitting lasers (VCSELs), micro-LEDs, and photodetectors
+- Photonic integrated circuits (PICs)
+- High-speed optical and electro-optical communication systems
+- Optical entropy sources, random number generation, and photonic PUFs
+- AR display architectures
  
-## 🎓 Education
+## Education
 - PhD in Electrical and Computer Engineering, KAUST (2023.01 – 2026.06)<br>
   Advisor: Prof. Boon S. Ooi  
 - M.S. in Electrical and Computer Engineering, KAUST (2021.09 – 2022.12)  
@@ -34,7 +32,7 @@ author_profile: true
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 **Senior Product Engineer, Broadcom Inc.** (2026.07 – Present)<br>
 - Optical System Division, Singapore
 - Qualify optoelectronic hardware for high-volume manufacturing and analyze production test data to investigate failures and improve yield.
@@ -50,7 +48,7 @@ author_profile: true
 
 ---
 
-## ✨ Research Highlights
+## Research Highlights
 - Designed and prototyped chaotic-cavity VCSELs for high-speed communication, high-efficiency and low-speckle illumination, and security applications.  
 - Performed III–V device simulation using COMSOL, Lumerical, Tidy3D, RSoft, and Silvaco.  
 - Fabricated optoelectronic devices through full nanofabrication process flows and characterized IV/LIV behavior, modulation response, optical and RF spectra, spatial coherence, near- and far-field patterns, and thermal performance.  
@@ -59,14 +57,14 @@ author_profile: true
 
 ---
 
-## 📚 Selected Publications & Presentations
-A complete list of my journal publications, conference papers, and invited talks is available on the Publications page. 
+## Selected Publications & Presentations
+A complete list of my journal publications, conference papers, and invited talks is available on the [Publications page]({{ '/publications/' | relative_url }}).
 
 My first/co-first author work has appeared in journals including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics* (Featured Article), *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper), and *npj Nanophotonics* (Invited perspective paper).
 
 ---
 
-## 🏅 Service & Awards
+## Service & Awards
 - Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on.
 - SPIE Optics and Photonics Education Scholarship (2026)
 - IEEE IEDM Student Travel Scholarship (2025)
@@ -80,12 +78,12 @@ My first/co-first author work has appeared in journals including *Nature Electro
 
 ---
 
-## 📬 Contact
-- ✉️ Email: *lh.daming@gmail.com*
+## Contact
+[lh.daming@gmail.com](mailto:lh.daming@gmail.com)
 
 ---
 
-## 🌍 Visitor Map
+## Visitor Map
 {% if site.visitor_map_src and site.visitor_map_src != "" %}
 <div class="visitor-map" style="margin: 0.8rem 0; max-width: 600px; width: 100%;" aria-label="Live visitor map">
   <script type="text/javascript" id="{{ site.visitor_map_widget_id | default: 'mapmyvisitors' | escape }}" src="{{ site.visitor_map_src | escape }}"></script>
