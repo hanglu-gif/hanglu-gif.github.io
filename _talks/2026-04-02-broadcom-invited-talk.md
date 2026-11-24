@@ -12,4 +12,4 @@ header:
 
 Invited seminar at Broadcom.
 
-<img src="/images/talks/Broadcom.jpg" alt="Engineering Optoelectronic Devices and Photonic Integration for Scalable Data Transmission and Security - Broadcom Seminar" style="max-width: 960px; width: 100%; height: auto;">
+<img src="/images/talks/broadcom-2026-04-02.svg" alt="Engineering Optoelectronic Devices and Photonic Integration for Scalable Data Transmission and Security - Broadcom Seminar" style="max-width: 960px; width: 100%; height: auto;">

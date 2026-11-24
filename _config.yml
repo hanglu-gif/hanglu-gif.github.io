@@ -13,7 +13,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Hang Lu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hang Lu"
-description              : &description "Hang Lu's academic homepage: PhD candidate in Electrical and Computer Engineering at KAUST, with research in photonics and optoelectronics."
+description              : &description "Hang Lu's personal homepage: Senior Product Engineer at Broadcom, specializing in optoelectronic hardware and high-volume manufacturing."
 url                      : https://hanglu-gif.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,11 +27,11 @@ author:
   avatar           : "hangprofile.png"
   name             : "Hang Lu"
   pronouns         : "she/her"  
-  bio              : "PhD candidate in Electrical and Computer Engineering at KAUST"
-  location         : "Saudi Arabia"
-  employer         : "King Abdullah University of Science and Technology"
+  bio              : "Senior Product Engineer in optoelectronic hardware and high-volume manufacturing"
+  location         : "Singapore"
+  employer         : "Broadcom Inc. · Optical System Division"
   uri              : # URL
-  email            : "hang.lu@kaust.edu.sa" 
+  email            : "lh.daming@gmail.com"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=EgY7UKYAAAAJ&hl=en"
@@ -144,7 +144,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "bio-photo.jpg" # Social media default site image
-og_description           : "Hang Lu's academic homepage at KAUST, featuring work in photonics, VCSELs, microLEDs, and photonic integrated circuits."
+og_description           : "Hang Lu's personal homepage, featuring work in semiconductor optoelectronics and integrated photonics."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -162,10 +162,10 @@ analytics:
     tracking_id          :
 
 # Visitor map widget (optional)
-# Use the full src from ClustrMaps embed code.
-# Global widget example: //clustrmaps.com/globe.js?d=YOUR_TOKEN
-clustrmaps_widget_id     : "clstr_globe"
-clustrmaps_src           : "//clustrmaps.com/globe.js?d=naPeHMB3RfMIfnrcQpVnp7w14Rr3qoXXUcR3_PNFbXM"
+# Use the full src from the MapMyVisitors embed code.
+# 2D map widget example: https://mapmyvisitors.com/map.js?d=YOUR_TOKEN
+visitor_map_widget_id    : "mapmyvisitors"
+visitor_map_src          : "https://mapmyvisitors.com/map.js?d=u8QiTDtiwKYmVNdWRbGbLBOvthnTGeyr7iwVsq0Dmig&cl=ffffff&w=a"
 
 
 # Reading Files

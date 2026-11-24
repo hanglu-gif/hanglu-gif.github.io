@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<a href='/files/CV-Hang-2026-Jan.pdf' target='_blank' rel='noopener'>CV Download</a>"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **King Abdullah University of Science and Technology (KAUST)**, Saudi Arabia  
-  Ph.D. Candidate in Electrical and Computer Engineering, Optoelectronics and Photonics *(2023.01–Present)*  
+  Ph.D. in Electrical and Computer Engineering, Optoelectronics and Photonics *(2023.01–2026.06)*<br>
   Advisor: Prof. Boon S. Ooi
 * **King Abdullah University of Science and Technology (KAUST)**, Saudi Arabia  
   M.S. in Electrical and Computer Engineering *(2021.09–2022.12)*  
@@ -26,6 +26,7 @@ Semiconductor optoelectronics and photonic integrated circuits (PIC), including 
 
 Core Skills
 ======
+* **Hardware Product Engineering:** Product qualification, manufacturing test-data analysis, yield optimization, failure analysis, new product introduction, and production ramp-up.
 * **Photonic Integrated Circuit (PIC) & System Architecture:** Designed emitter–detector integrated systems and high-speed 2D beam-steering PIC architectures with co-design across lasers, couplers, modulators, waveguides, and gratings.
 * **Optoelectronic Device Design:** 5+ years of experience in design, optimization, and characterization of lasers, micro-LEDs, and PDs for high-speed modulation; hands-on III–V epitaxial structure analysis.
 * **Modeling & Simulation Tools:** COMSOL, Lumerical, Tidy3D, R-soft, Silvaco, MATLAB, Python.
@@ -37,13 +38,19 @@ Core Skills
 
 Professional Experience
 ======
-* **Intern, Meta** *(2025.06–2025.11)*
+* **Senior Product Engineer, Broadcom Inc., Optical System Division**, Singapore *(2026.07–Present)*
+  * Qualify optoelectronic hardware for high-volume manufacturing and analyze production test data to investigate failures and improve yield.
+  * Work with process, manufacturing, reliability, and supplier engineering teams to resolve production issues.
+  * Develop AI-assisted workflows for failure triage and root-cause analysis.
+  * Support new product introduction, production line transfers, and manufacturing ramp-up.
+
+* **Research Scientist Intern, Meta**, Redmond, Washington *(2025.06–2025.11)*
   * Designed and optimized PIC-based architectures for high-speed 2D beam steering.
   * Performed chip-scale and free-space optical integration for system-level optics.
   * Developed automated MATLAB/Python tools for optical modeling, system analysis, and performance prediction.
   * Collaborated with cross-functional teams (optics, electronics, mechanics) to define specifications and validate early prototypes.
 
-* **M.S./Ph.D. Researcher, KAUST** *(2021.09–Present)*
+* **M.S./Ph.D. Researcher, KAUST** *(2021.09–2026.06)*
   * Led design and prototyping of chaotic-cavity laser systems for high-speed communication and illumination.
   * Designed/simulated chaotic-cavity VCSELs (COMSOL), fabricated devices, and built test platforms for IV/LIV, modulation response, RF spectra, coherence, far-/near-field, and thermal behavior.
   * Built fiber and free-space GHz communication links; validated bandwidth, eye diagrams, parasitics, and system stability.
@@ -54,7 +61,9 @@ Professional Experience
 
 Service and Awards
 ======
-* Reviewer: *IEEE Photonics Technology Letters*, *Photonics Journal*, *Chinese Optics Letters*
+* Reviewer: *IEEE Photonics Technology Letters*, *Photonics Journal*, *Chinese Optics Letters*, and so on.
+* SPIE Optics and Photonics Education Scholarship (2026)
+* IEEE IEDM Student Travel Scholarship (2025)
 * KAUST Dean’s List Award (2023, 2024)
 * KAUST Career Fair Ambassador (2023)
 * KAUST “Green Road” Excellent Volunteer Leader (2022)
@@ -63,7 +72,7 @@ Service and Awards
 
 Selected Publications and Presentations
 ======
-* **2026 (Accepted)** — Zhican Zhou*, Hang Lu*, et al.  
+* **2026** — Zhican Zhou*, Hang Lu*, et al.  
   “Chaos-based scalable optoelectronic physical unclonable functions with AI-driven dynamic authentication.”  
   *Nature Electronics*.
 * **2025** — Hang Lu, et al.  
@@ -84,8 +93,3 @@ Selected Publications and Presentations
 * **2024 (Invited Talk)** — Ooi, Boon S., Hang Lu, et al.  
   “Design and Applications of Low-Coherence Semiconductor Light Emitters.”  
   *Conference on Lasers and Electro-Optics (CLEO)*.
-
-Patents
-======
-* Ooi, Boon S., Omar Alkhazragi, Hang Lu, Nawal Almaymoni, Heming Lin. “A multifunctional monolithically integrated Photodetector-VCSEL chip for massively parallel optical communication, random number generation and quantum key distribution.” U.S. Patent Application (In progress, 2026).
-* Two patents related to AR display with Meta Inc. (In progress, 2026).
