@@ -24,7 +24,7 @@ Education
 
 Research
 ======
-My research covered semiconductor optoelectronics and photonic integrated circuits (PICs). I designed and modeled lasers, micro-LEDs, photodetectors, waveguides, and gratings, then used nanofabrication and electro-optical testing to evaluate devices and integrated systems for communication, beam steering, and imaging.
+At KAUST, I developed semiconductor optoelectronic devices and photonic integrated circuits (PICs), including vertical-cavity surface-emitting lasers (VCSELs), micro-LEDs, and integrated VCSEL–photodetector chips. I modeled device behavior, fabricated prototypes in the cleanroom, and built electro-optical and RF test setups to characterize them. I used system-level experiments to evaluate devices for high-speed optical links, imaging, and hardware security. At Broadcom, I apply that device and test experience to product qualification, failure analysis, and yield improvement as optoelectronic hardware moves into volume production.
 
 Core Skills
 ======
