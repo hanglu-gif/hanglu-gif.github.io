@@ -16,9 +16,9 @@ Outside the lab and factory, I enjoy photography, music, and the small rituals o
 - ☕ **Coffee (latte art)** — enjoying the practice that goes into a well-poured cup.
 - 🍷 **Wine** — tasting how the same grape can tell a different story depending on where it’s grown and who makes it.
 
-I also write about technical ideas, especially when I can find a more intuitive way to explain them. My articles have received more than 10,000 views in total, and some have been saved more than 1,000 times.
+✍️ I enjoy writing about technical ideas, especially when I find an example that makes a difficult concept click. My articles have received more than 10,000 views in total, and some have been saved more than 1,000 times. What I find most rewarding is knowing that an explanation I worked on made sense to someone else and was worth coming back to.
 
-I’ve visited more than 40 countries. Travel continues to shape how I see familiar things and how I connect with people.
+🌍 I’ve traveled to more than 40 countries, and I’m still curious about what everyday life looks like somewhere new. Seeing how people approach familiar things in different ways has changed how I think, how I work, and how I relate to people. I try to bring some of that curiosity and patience home with me.
 
 ## Visitor Guestbook
 
