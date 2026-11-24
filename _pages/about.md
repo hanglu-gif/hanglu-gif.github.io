@@ -1,18 +1,12 @@
 ---
 permalink: /
 title: "Hang Lu"
-description: "Hang Lu's personal homepage: Senior R&D Product Engineer at Broadcom, specializing in semiconductor optoelectronics and integrated photonics."
-excerpt: "Senior R&D Product Engineer at Broadcom working on semiconductor optoelectronics and integrated photonics."
+description: "Hang Lu's personal homepage: Senior Product Engineer at Broadcom, specializing in optoelectronic hardware and high-volume manufacturing."
+excerpt: "Senior Product Engineer at Broadcom working on optoelectronic hardware and high-volume manufacturing."
 author_profile: true
 ---
 
-👋 Welcome to my homepage.
-{: style="text-align: justify; text-justify: inter-word;"}
-
-🔬 I am Hang Lu, a Senior R&D Product Engineer specializing in semiconductor optoelectronics and integrated photonics.
-{: style="text-align: justify; text-justify: inter-word;"}
-
-💼 I am currently with the Optical System Division at Broadcom Inc. in Singapore. My work focuses on semiconductor optoelectronics and integrated photonics.
+💼 I am a Senior Product Engineer at Broadcom in Singapore. My work focuses on product qualification, yield optimization, and new product introduction for optoelectronic hardware in high-volume manufacturing.
 {: style="text-align: justify; text-justify: inter-word;"}
 
 🎓 I received my PhD in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) in June 2026. At the [KAUST Photonics Lab](https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi, my research focused on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers (especially VCSELs), microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumination, and hardware security.
@@ -41,11 +35,13 @@ author_profile: true
 ---
 
 ## 💼 Professional Experience
-**Senior R&D Product Engineer, Broadcom Inc.** (2026 – Present)<br>
+**Senior Product Engineer, Broadcom Inc.** (2026.07 – Present)<br>
 - Optical System Division, Singapore
-- Specializing in semiconductor optoelectronic devices 
+- Qualify optoelectronic hardware for high-volume manufacturing and analyze production test data to investigate failures and improve yield.
+- Support new product introduction, production line transfers, and manufacturing ramp-up.
+- Develop AI-assisted workflows for failure triage and root-cause analysis.
 
-**Research Internship at Meta** (2025.06 – 2025.11)  
+**Research Scientist Intern, Meta** (2025.06 – 2025.11)  
 - Conducted high-speed photonic integrated circuit modeling and system architecture design  
 - Designed PIC-based architectures for high-speed 2D beam steering, including modulator–waveguide–grating co-design and display-level performance evaluation  
 - Performed chip-scale and free-space optical design to interface PIC outputs with system-level optics  

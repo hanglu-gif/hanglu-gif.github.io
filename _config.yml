@@ -13,7 +13,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Hang Lu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hang Lu"
-description              : &description "Hang Lu's personal homepage: Senior R&D Product Engineer at Broadcom, specializing in semiconductor optoelectronics and integrated photonics."
+description              : &description "Hang Lu's personal homepage: Senior Product Engineer at Broadcom, specializing in optoelectronic hardware and high-volume manufacturing."
 url                      : https://hanglu-gif.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   avatar           : "hangprofile.png"
   name             : "Hang Lu"
   pronouns         : "she/her"  
-  bio              : "Senior R&D Product Engineer in semiconductor optoelectronics and integrated photonics"
+  bio              : "Senior Product Engineer in optoelectronic hardware and high-volume manufacturing"
   location         : "Singapore"
   employer         : "Broadcom Inc. · Optical System Division"
   uri              : # URL
