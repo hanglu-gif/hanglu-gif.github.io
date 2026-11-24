@@ -5,12 +5,6 @@ collection: portfolio
 order: 3
 ---
 
-This project highlights demonstrated device-level applications and performance impact.
-
-Representative outcomes:
-- High-speed optical communication capability
-- Imaging/illumination light sources with high-efficiency and reduced coherence-related interference
-- Chip-integrated optical entropy engine
-- Hardware security authentication system
+My research tested how semiconductor devices perform in optical systems. I built high-speed optical links and characterized light sources for imaging and illumination, where spatial coherence affects visible speckle. I also worked on integrated devices for optical entropy generation and hardware authentication.
 
 <img src="/portfolio/portfolio3.jpg" alt="Optoelectronic device applications and outcomes" style="width:100%; max-width:980px; height:auto; border-radius:8px; margin-top:10px;" />

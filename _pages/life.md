@@ -5,21 +5,20 @@ permalink: /life/
 author_profile: true
 ---
 
-Outside of research, I enjoy spending time on things that help me slow down and stay present.
+Outside the lab and factory, I enjoy photography, music, and the small rituals of cooking and making coffee.
 
-- 🎹 **Piano** — a relaxing way to focus and reflect.
-- 🌊 **Diving** — being in a completely different environment with calmness and control.
-- 📷 **Photography** — observing light, patterns, and subtle details in complex scenes.
-- 🚴‍♀️ **Cycling** — enjoying long-distance exploration and steady pacing.
-- 🍳 **Cooking** — enjoying the process of creating something simple and comforting.
-- ☕ **Coffee (latte art)** — small routines that require care and attention.
-- 🍷 **Red wine** — exploring different grape varieties and regions.
+- 🎹 **Piano** — a quiet way to spend time with music.
+- 🌊 **Diving** — a chance to slow down and pay attention underwater.
+- 📷 **Photography** — looking for light, patterns, and the details that make a scene worth framing.
+- ⛳ **Golf** — practicing consistency, patience, and mental focus.
+- 🚴‍♀️ **Cycling** — exploring over longer distances at a steady pace.
+- 🍳 **Cooking** — making something simple and comforting.
+- ☕ **Coffee (latte art)** — enjoying the practice that goes into a well-poured cup.
+- 🍷 **Wine** — exploring different grape varieties, regions, and styles.
 
-✍️ I also enjoy writing from time to time, especially when trying to explain technical ideas in a more intuitive way. Some of my articles have received 1000+ saves, with total views exceeding 10,000. It is always rewarding to see that something I wrote resonated with others.
+I also write about technical ideas, especially when I can find a more intuitive way to explain them. My articles have received more than 10,000 views in total, and some have been saved more than 1,000 times.
 
-🌍 I also enjoy traveling, and so far I have had the chance to visit more than 30 countries. Experiencing different cultures and perspectives has gradually shaped how I think, work, and relate to people.
-
-These experiences continue to remind me to be with curiosity, patience, and a broader perspective.
+I’ve visited more than 30 countries. Travel continues to shape how I see familiar things and how I connect with people.
 
 ## Visitor Guestbook
 

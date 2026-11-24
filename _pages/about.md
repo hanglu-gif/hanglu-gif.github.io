@@ -1,19 +1,16 @@
 ---
 permalink: /
 title: "Hang Lu"
-description: "Hang Lu's personal homepage: Senior Product Engineer at Broadcom, specializing in optoelectronic hardware and high-volume manufacturing."
-excerpt: "Senior Product Engineer at Broadcom working on optoelectronic hardware and high-volume manufacturing."
+description: "Hang Lu is a Senior Product Engineer at Broadcom working on optoelectronic hardware, from device research and prototyping to product qualification and high-volume manufacturing."
+excerpt: "Senior Product Engineer at Broadcom working at the intersection of optoelectronics research and hardware manufacturing."
 author_profile: true
 ---
 
-💼 I am a Senior Product Engineer at Broadcom in Singapore. My work focuses on product qualification, yield optimization, and new product introduction for optoelectronic hardware in high-volume manufacturing.
-{: style="text-align: justify; text-justify: inter-word;"}
+I am a Senior Product Engineer at Broadcom in Singapore. I work on bringing optoelectronic hardware from research and prototyping into high-volume production. I support new product introduction and production ramp-up, qualify hardware for manufacturing, and use production test data to investigate failures and improve yield.
 
-🎓 I received my PhD in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) in June 2026. At the [KAUST Photonics Lab](https://www.kaustphotonics.org/), under the supervision of Prof. Boon S. Ooi, my research focused on semiconductor optoelectronic devices and photonic integrated circuits (PICs), with particular emphasis on lasers (especially VCSELs), microLEDs, photodetectors, and photonic integration, and their applications in high-speed communication, speckle-free imaging, illumination, and hardware security.
-{: style="text-align: justify; text-justify: inter-word;"}
+I earned my PhD in Electrical and Computer Engineering from KAUST in June 2026. At the [KAUST Photonics Lab](https://www.kaustphotonics.org/), I worked with Prof. Boon S. Ooi on semiconductor lasers, micro-LEDs, photodetectors, and photonic integrated circuits. I took devices from simulation and cleanroom fabrication through optical and RF characterization, then evaluated them in communication, beam-steering, and imaging systems. That experience helps me connect what I see in production data to how a device was designed, built, and tested.
 
-🧩 My work adopts a full-stack approach to photonic system development, spanning device physics modeling and simulation, cleanroom nanofabrication and process integration, and optical/electrical characterization with system-level validation. I have established end-to-end PIC development workflows covering lasers, micro-LEDs, waveguides, gratings, modulators and photodetectors, and evaluated their performance in GHz-class optical links, beam-steering systems, and imaging platforms using customized optical and RF measurement setups.
-{: style="text-align: justify; text-justify: inter-word;"}
+Explore my [engineering projects]({{ '/portfolio/' | relative_url }}), [publications]({{ '/publications/' | relative_url }}), or [CV]({{ '/cv/' | relative_url }}). I also keep a [Life page]({{ '/life/' | relative_url }}) for interests outside engineering, including photography, piano, and wine.
 
 ---
 
@@ -35,18 +32,19 @@ author_profile: true
 ---
 
 ## 💼 Professional Experience
-**Senior Product Engineer, Broadcom Inc.** (2026.07 – Present)<br>
-- Optical System Division, Singapore
-- Qualify optoelectronic hardware for high-volume manufacturing and analyze production test data to investigate failures and improve yield.
+**Senior Product Engineer, Broadcom Inc.** (July 2026–present)<br>
+Optical System Division, Singapore
+
+- Qualify optoelectronic devices for volume production and use test data to investigate failures and improve yield.
 - Support new product introduction, production line transfers, and manufacturing ramp-up.
 - Develop AI-assisted workflows for failure triage and root-cause analysis.
 
-**Research Scientist Intern, Meta** (2025.06 – 2025.11)  
-- Conducted high-speed photonic integrated circuit modeling and system architecture design  
-- Designed PIC-based architectures for high-speed 2D beam steering, including modulator–waveguide–grating co-design and display-level performance evaluation  
-- Performed chip-scale and free-space optical design to interface PIC outputs with system-level optics  
-- Developed automated MATLAB and Python tools for optical modeling, system analysis, and performance prediction  
-- Collaborated with cross-functional teams across optics, electronics, and mechanics to define specifications and validate early-stage prototypes  
+**Research Scientist Intern, Meta** (June–November 2025)<br>
+Redmond, Washington
+
+- Designed photonic integrated circuit architectures for high-speed two-dimensional beam steering, co-designing modulators, waveguides, and gratings.
+- Modeled how chip-scale and free-space optics fit together and automated performance analysis in MATLAB and Python.
+- Worked with optics, electronics, and mechanical teams to define specifications and evaluate early prototypes.
 
 ---
 
@@ -60,14 +58,14 @@ author_profile: true
 ---
 
 ## 📚 Selected Publications & Presentations
-A complete list of my journal publications, conference papers, and invited talks is available on the Publications page. 
+See [Publications]({{ '/publications/' | relative_url }}) for journal articles and conference papers, and [Talks]({{ '/talks/' | relative_url }}) for presentations and invited seminars.
 
-My first/co-first author work has appeared in journals including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics* (Featured Article), *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper), and *npj Nanophotonics* (Invited perspective paper).
+My work as first or co-first author has appeared in journals including *Nature Electronics*, *Light: Science & Applications*, *APL Photonics* (Featured Article), *IEEE Journal of Selected Topics in Quantum Electronics* (Cover paper), and *npj Nanophotonics* (Invited perspective paper).
 
 ---
 
 ## 🏅 Service & Awards
-- Reviewer for IEEE Photonics Technology Letters, IEEE Photonics Journal, Chinese Optics Letters, and so on.
+- Peer reviewer for journals including *IEEE Photonics Technology Letters*, *IEEE Photonics Journal*, and *Chinese Optics Letters*.
 - SPIE Optics and Photonics Education Scholarship (2026)
 - IEEE IEDM Student Travel Scholarship (2025)
 - KAUST Dean’s List Award (2024, 2023)  
@@ -81,7 +79,7 @@ My first/co-first author work has appeared in journals including *Nature Electro
 ---
 
 ## 📬 Contact
-- ✉️ Email: *lh.daming@gmail.com*
+[lh.daming@gmail.com](mailto:lh.daming@gmail.com)
 
 ---
 
