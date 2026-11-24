@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## From Research to Product
-
-I am a Senior Product Engineer at Broadcom with a PhD in Electrical and Computer Engineering from KAUST. My research took semiconductor lasers, micro-LEDs, photodetectors, and photonic integrated circuits from device modeling and cleanroom fabrication through electro-optical testing and system-level validation for optical communication, beam steering, and imaging. At Broadcom, I apply that experience to qualifying optoelectronic hardware, analyzing production test data to investigate failures and improve yield, and supporting new product introduction and manufacturing ramp-up.
-
 Education
 ======
 * **King Abdullah University of Science and Technology (KAUST)**, Saudi Arabia  
