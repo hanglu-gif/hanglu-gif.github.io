@@ -10,6 +10,7 @@ Outside of research, I enjoy spending time on things that help me slow down and 
 - 🎹 **Piano** — a relaxing way to focus and reflect.
 - 🌊 **Diving** — being in a completely different environment with calmness and control.
 - 📷 **Photography** — observing light, patterns, and subtle details in complex scenes.
+- ⛳ **Golf** — practicing consistency, patience, and mental focus.
 - 🚴‍♀️ **Cycling** — enjoying long-distance exploration and steady pacing.
 - 🍳 **Cooking** — enjoying the process of creating something simple and comforting.
 - ☕ **Coffee (latte art)** — small routines that require care and attention.
