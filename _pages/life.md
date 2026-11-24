@@ -14,11 +14,11 @@ Outside the lab and factory, I enjoy photography, music, and the small rituals o
 - 🚴‍♀️ **Cycling** — exploring over longer distances at a steady pace.
 - 🍳 **Cooking** — making something simple and comforting.
 - ☕ **Coffee (latte art)** — enjoying the practice that goes into a well-poured cup.
-- 🍷 **Wine** — exploring different grape varieties, regions, and styles.
+- 🍷 **Wine** — tasting how the same grape can tell a different story depending on where it’s grown and who makes it.
 
 I also write about technical ideas, especially when I can find a more intuitive way to explain them. My articles have received more than 10,000 views in total, and some have been saved more than 1,000 times.
 
-I’ve visited more than 30 countries. Travel continues to shape how I see familiar things and how I connect with people.
+I’ve visited more than 40 countries. Travel continues to shape how I see familiar things and how I connect with people.
 
 ## Visitor Guestbook
 

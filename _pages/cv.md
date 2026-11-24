@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Senior Product Engineer with a PhD in Electrical and Computer Engineering. My experience spans semiconductor device design, fabrication, and system validation, as well as product qualification, yield improvement, and manufacturing ramp-up for optoelectronic hardware.
+## From Research to Product
+
+I am a Senior Product Engineer at Broadcom with a PhD in Electrical and Computer Engineering from KAUST. My research took semiconductor lasers, micro-LEDs, photodetectors, and photonic integrated circuits from device modeling and cleanroom fabrication through electro-optical testing and system-level validation for optical communication, beam steering, and imaging. At Broadcom, I apply that experience to qualifying optoelectronic hardware, analyzing production test data to investigate failures and improve yield, and supporting new product introduction and manufacturing ramp-up.
 
 Education
 ======
@@ -21,10 +23,6 @@ Education
   Advisor: Prof. Boon S. Ooi
 * **University of Electronic Science and Technology of China (UESTC)**, China  
   B.S. in Electronic and Information Engineering *(2017.09–2021.06)*
-
-Research
-======
-My research covered semiconductor optoelectronics and photonic integrated circuits (PICs). I designed and modeled lasers, micro-LEDs, photodetectors, waveguides, and gratings, then used nanofabrication and electro-optical testing to evaluate devices and integrated systems for communication, beam steering, and imaging.
 
 Core Skills
 ======
